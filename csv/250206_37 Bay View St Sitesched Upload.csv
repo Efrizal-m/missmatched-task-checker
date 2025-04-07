@@ -1,0 +1,305 @@
+ID,text,duration,start_date,end_date
+1,Estimated Contract Program,575 days,Thu 4/18/24,Wed 8/19/26
+2,    Stage 1 - Shoring & Excavation ,185 days,Thu 4/18/24,Mon 1/20/25
+3,        Access & Demolition,30 days,Thu 4/18/24,Thu 5/30/24
+4,        Basement Shoring,65 days,Fri 5/31/24,Fri 8/30/24
+5,        Load out platform,15 days,Mon 9/02/24,Fri 9/20/24
+6,        Excavation,75 days,Mon 9/23/24,Mon 1/20/25
+7,    Stage 2 - Construction,360 days,Tue 1/21/25,Wed 7/08/26
+8,        Construction & Finishes,360 days,Tue 1/21/25,Wed 7/08/26
+9,    Inclement Weather Allowance,30 days,Thu 7/09/26,Wed 8/19/26
+10,    Estimated Contract Completion,0 days,Wed 8/19/26,Wed 8/19/26
+11,Project Duration Summary,575 days,Thu 4/18/24,Wed 8/19/26
+12,    Site Establish,30 days,Thu 4/18/24,Thu 5/30/24
+13,        Site handover,0 days,Thu 4/18/24,Thu 4/18/24
+14,        Site Set up & Tree Protection,5 days,Thu 4/18/24,Wed 4/24/24
+15,        Tree Tying and trimming,5 days,Fri 5/24/24,Thu 5/30/24
+16,    Authority Approvals ,193 days,Thu 4/18/24,Fri 1/31/25
+17,        CDC for Demolition,0 days,Thu 4/18/24,Thu 4/18/24
+18,        CC1 for complete project,20 days,Thu 4/18/24,Thu 5/16/24
+19,        DA 2 Submit & Approval ,58 days,Mon 8/26/24,Thu 11/14/24
+20,        DA 2 CC2,10 days,Fri 1/17/25,Fri 1/31/25
+21,        Council Workzone & CTMP Application & Approval,10 days,Thu 4/18/24,Thu 5/02/24
+22,    Design Development,183 days,Thu 4/18/24,Thu 1/16/25
+23,        Design Development - Shoring,10 days,Thu 4/18/24,Thu 5/02/24
+24,        Design development & IFC Structure,90 days,Thu 4/18/24,Fri 8/23/24
+25,        DA 2 Design and documentation,90 days,Thu 4/18/24,Fri 8/23/24
+26,        Design develop Internals and Finishes,70 days,Mon 7/29/24,Mon 11/04/24
+27,        Design modifications for DA 2 approval,35 days,Fri 11/15/24,Thu 1/16/25
+28,"        IFC for Lockup - Blind, Louvre screen Window recess and interface design Recess ",40 days,Mon 8/26/24,Mon 10/21/24
+29,    Inspections,510 days,Wed 4/24/24,Wed 5/27/26
+30,        Arborist,189 days,Fri 4/26/24,Tue 2/04/25
+31,            Pre Demolition,0 days,Fri 4/26/24,Fri 4/26/24
+32,            Excavation Commencement,0 days,Fri 5/31/24,Fri 5/31/24
+33,            Tree Crown or Root pruning,0 days,Thu 5/30/24,Thu 5/30/24
+34,            Construction Commencment,0 days,Tue 2/04/25,Tue 2/04/25
+35,        PCA,510 days,Wed 4/24/24,Wed 5/27/26
+36,            Site Inpsection,0 days,Wed 4/24/24,Wed 4/24/24
+37,            Commencment,0 days,Fri 5/03/24,Fri 5/03/24
+38,            Pier Inspection,0 days,Mon 6/17/24,Mon 6/17/24
+39,            Slab Inspection,0 days,Tue 2/04/25,Tue 2/04/25
+40,            Stormwater Inspection,0 days,Mon 1/20/25,Mon 1/20/25
+41,            Framework Inspection,0 days,Tue 2/11/25,Tue 2/11/25
+42,            Wet Area Inspection,0 days,Thu 9/18/25,Thu 9/18/25
+43,            Final Inspection,0 days,Wed 5/27/26,Wed 5/27/26
+44,    Demolition,25 days,Fri 4/26/24,Thu 5/30/24
+45,        Strip out,5 days,Fri 4/26/24,Thu 5/02/24
+46,        Asbestos removal,5 days,Fri 5/03/24,Thu 5/09/24
+47,        Building Demolition,15 days,Fri 5/10/24,Thu 5/30/24
+49,    Loading Platform Procurement,30 days,Fri 8/02/24,Thu 9/12/24
+50,        Work Shop Draw Loading Platform,10 days,Fri 8/02/24,Thu 8/15/24
+51,        Fabricate and deliver Loading Dock,20 days,Fri 8/16/24,Thu 9/12/24
+52,    Civil Works,194 days,Thu 4/18/24,Mon 2/03/25
+53,        Develop Shoring methodology,5 days,Fri 5/03/24,Thu 5/09/24
+54,        Secure Piling Rig,30 days,Thu 4/18/24,Thu 5/30/24
+55,"        Site preparation, Strip topsoil and Sediment control",10 days,Fri 5/31/24,Fri 6/14/24
+56,        Piling Platform 1,10 days,Fri 5/31/24,Fri 6/14/24
+57,        Piling Stage 1 & Exc Mat'l removal,15 days,Mon 6/17/24,Fri 7/05/24
+58,        Piling Platform 2,2 days,Mon 7/08/24,Tue 7/09/24
+59,        Piling Stage 2 & Exc Mat'l removal,10 days,Wed 7/10/24,Tue 7/23/24
+60,        Piling Platform 3,2 days,Wed 7/24/24,Thu 7/25/24
+61,        Piling Stage 3 & Exc Mat'l removal,15 days,Fri 7/26/24,Thu 8/15/24
+62,        Exc & FRP Pile caps - Stage 1,20 days,Fri 8/16/24,Thu 9/12/24
+63,        Exc & FRP Pile caps - Stage 2,10 days,Fri 9/13/24,Thu 9/26/24
+64,        Exc & FRP Pile caps - Stage 3,10 days,Fri 9/27/24,Fri 10/11/24
+65,"        Install Loading platform, Steel, Bondeck, FRP",15 days,Fri 9/13/24,Thu 10/03/24
+66,        Cure Loading Platform,7 days,Fri 10/04/24,Tue 10/15/24
+67,        Excavation  to H1,15 days,Wed 10/16/24,Tue 11/05/24
+68,        Progressive shotcrete & strip drains - H1,25 days,Fri 10/04/24,Fri 11/08/24
+69,        Install steel whalers & bracing,10 days,Mon 11/11/24,Fri 11/22/24
+70,        Excavation to H2,10 days,Mon 11/25/24,Fri 12/06/24
+71,        Progressive Chop down Basement piles to height,15 days,Mon 11/25/24,Fri 12/13/24
+72,        Progressive shotcrete & strip drains - H2,8 days,Mon 12/09/24,Wed 12/18/24
+73,        Detail excavation to footings and inground Services,15 days,Mon 12/16/24,Fri 1/17/25
+74,        Remove Loading Platform & Piles,5 days,Mon 1/20/25,Fri 1/24/25
+75,        Slab base and drainage and waterproofing install,10 days,Mon 1/20/25,Mon 2/03/25
+76,        Exc & install SW drainage pumpout / absorption pit,10 days,Mon 1/20/25,Mon 2/03/25
+77,    Building Structure,215 days,Tue 2/04/25,Thu 12/11/25
+78,        FRP Basement Slab,17 days,Tue 2/04/25,Wed 2/26/25
+79,        FRP Concrete columns Bmt-LGF,10 days,Thu 2/27/25,Wed 3/12/25
+80,        Brickwork to LGF incl to under Ext Sth Planter,16 days,Wed 3/05/25,Wed 3/26/25
+81,        SW plumbing in Drainage Cavity,5 days,Thu 3/27/25,Wed 4/02/25
+82,        FRP LGF Slab incl Cellar vaults,31 days,Thu 3/27/25,Fri 5/16/25
+83,        Strip & backprop LGF Slab,3 days,Thu 8/07/25,Mon 8/11/25
+84,        Remove Whalers and Bracing,5 days,Mon 5/19/25,Fri 5/23/25
+85,        FRP Concrete columns LGF-GF,10 days,Mon 5/26/25,Fri 6/06/25
+86,        Section 455 Approval before delay in Critical Path,0 days,Fri 5/23/25,Fri 5/23/25
+87,        Brickwork to GF,15 days,Mon 6/02/25,Mon 6/23/25
+88,        FRP Mezzanine Slab incl Rainwater Tank,15 days,Tue 6/24/25,Mon 7/14/25
+89,        Strip & backprop Mezzanine Slab,2 days,Tue 8/12/25,Wed 8/13/25
+90,        Brickwork Mezz to GF incl Rainwater Tank,7 days,Tue 7/15/25,Wed 7/23/25
+91,        FRP GF Slab,20 days,Thu 7/10/25,Wed 8/06/25
+92,        Strip & backprop GF Slab,3 days,Thu 10/16/25,Mon 10/20/25
+93,        FRP Concrete Columns GF-1F,10 days,Thu 8/07/25,Wed 8/20/25
+94,        Brickwork to Entry Slab,7 days,Thu 8/07/25,Fri 8/15/25
+95,        SW plumbing in Drainage Cavity,10 days,Mon 8/11/25,Fri 8/22/25
+96,        FRP Entry Slab,12 days,Mon 8/18/25,Tue 9/02/25
+97,        Strip & backprop Entry Slab,3 days,Wed 11/05/25,Fri 11/07/25
+98,        Brickwork to First Floor,10 days,Wed 9/03/25,Tue 9/16/25
+99,        FRP Fist Floor Slab incl Sth Palnter Box,20 days,Wed 9/17/25,Wed 10/15/25
+100,        Strip & backprop 1F Slab,3 days,Tue 12/09/25,Thu 12/11/25
+101,        FRP Columns 1F-Roof,7 days,Thu 10/16/25,Fri 10/24/25
+102,        Brickwork to Roof,7 days,Thu 10/23/25,Fri 10/31/25
+103,        FRP Roof Slab,12 days,Mon 11/03/25,Tue 11/18/25
+104,        Strip Roof Slab,3 days,Tue 12/09/25,Thu 12/11/25
+105,    Spiral Staircase,119 days,Mon 11/10/25,Mon 5/11/26
+106,        FRP Basement to LGF,20 days,Mon 11/10/25,Fri 12/05/25
+107,        FRP LGF- GF,20 days,Mon 12/08/25,Wed 1/14/26
+108,        FRP GF to 1F,20 days,Thu 1/15/26,Thu 2/12/26
+109,        Spiral stair external finishes,20 days,Fri 3/13/26,Mon 4/13/26
+110,        U/S Roof Services Rough in & Ceiling and paint,10 days,Tue 4/14/26,Tue 4/28/26
+111,        Remove scaffold to below glass bridge,2 days,Wed 4/29/26,Thu 4/30/26
+112,        Install Glass Bridge,5 days,Fri 5/01/26,Thu 5/07/26
+113,        Remove scaffold around spiral stair,2 days,Fri 5/08/26,Mon 5/11/26
+114,    External Works,226 days,Fri 8/15/25,Thu 7/16/26
+115,        Roof,33 days,Wed 11/26/25,Wed 1/21/26
+116,            Install skylights,10 days,Wed 12/10/25,Tue 12/23/25
+117,            Roof fixings & membrane,10 days,Wed 11/26/25,Tue 12/09/25
+118,            Roof pebbles,3 days,Mon 1/05/26,Wed 1/07/26
+119,            Solar Panels,10 days,Thu 1/08/26,Wed 1/21/26
+120,        L1 Roof,40 days,Wed 12/10/25,Mon 2/16/26
+121,            Install skylights,10 days,Mon 1/05/26,Fri 1/16/26
+122,            Fixings & membranes,3 days,Wed 12/10/25,Fri 12/12/25
+123,            Landscaping,5 days,Mon 12/15/25,Fri 12/19/25
+124,            Install Floating Balcony & Glazed Handrails,20 days,Mon 1/19/26,Mon 2/16/26
+125,        GF Balcony,50 days,Mon 12/15/25,Thu 3/05/26
+126,            Install Handrails,5 days,Fri 2/27/26,Thu 3/05/26
+127,            Fixings & membranes,3 days,Mon 12/15/25,Wed 12/17/25
+128,            Pavers,5 days,Thu 12/18/25,Mon 1/05/26
+129,        Windows,115 days,Fri 8/15/25,Thu 2/05/26
+130,            Basement,15 days,Fri 8/15/25,Thu 9/04/25
+131,                Window Surround Frames,10 days,Fri 8/15/25,Thu 8/28/25
+132,                Install Windows,10 days,Fri 8/22/25,Thu 9/04/25
+133,            Lower Ground Floor,25 days,Fri 10/24/25,Thu 11/27/25
+134,                Window Surround Frames,10 days,Fri 10/24/25,Thu 11/06/25
+135,                Install Windows,20 days,Fri 10/31/25,Thu 11/27/25
+136,            Mezzanine,10 days,Mon 12/08/25,Fri 12/19/25
+137,                Window Surround Frames,5 days,Mon 12/08/25,Fri 12/12/25
+138,                Install Windows,5 days,Mon 12/15/25,Fri 12/19/25
+139,            Ground Floor and Entry,25 days,Mon 12/22/25,Thu 2/05/26
+140,                Window Surround Frames,10 days,Mon 12/22/25,Wed 1/14/26
+141,                Install Windows,20 days,Thu 1/08/26,Thu 2/05/26
+142,            Level 1,25 days,Wed 12/17/25,Mon 2/02/26
+143,                Window Surround Frames,10 days,Wed 12/17/25,Fri 1/09/26
+144,                Install Windows,20 days,Mon 1/05/26,Mon 2/02/26
+145,        External Render,44 days,Tue 1/27/26,Fri 3/27/26
+146,            Roof - L1,12 days,Tue 1/27/26,Wed 2/11/26
+147,            L1 - GF,16 days,Thu 2/05/26,Thu 2/26/26
+148,            GF-LGF,20 days,Thu 2/19/26,Wed 3/18/26
+149,            LGF-Bmt,15 days,Mon 3/09/26,Fri 3/27/26
+150,        External Louvres & Wall Cladding,31 days,Fri 2/27/26,Tue 4/14/26
+151,            Roof to GF,15 days,Fri 2/27/26,Thu 3/19/26
+152,            GF-BMT,10 days,Mon 3/30/26,Tue 4/14/26
+153,        Scaffold Removal,21 days,Fri 3/20/26,Tue 4/21/26
+154,            Roof to GF,5 days,Fri 3/20/26,Thu 3/26/26
+155,            GF-BMT,5 days,Wed 4/15/26,Tue 4/21/26
+156,        External Stairs & Planters Nth,60 days,Wed 4/22/26,Thu 7/16/26
+157,            FRP BMT - LGF,15 days,Wed 4/22/26,Wed 5/13/26
+158,            LGF - GF,15 days,Thu 5/14/26,Wed 6/03/26
+159,            GF-Entry,15 days,Thu 6/04/26,Thu 6/25/26
+160,            Stair stone Paving & handrails,20 days,Fri 6/19/26,Thu 7/16/26
+161,        Planter Boxes South,60 days,Wed 4/22/26,Thu 7/16/26
+162,            FRP Stairs Bmt -LGF,10 days,Wed 4/22/26,Wed 5/06/26
+163,            FRP Stepped Planter Boxes LGF - GF,20 days,Thu 5/07/26,Wed 6/03/26
+164,            Blockwork to Planters LGF - GF,20 days,Thu 5/14/26,Thu 6/11/26
+165,            Topping to falls,20 days,Thu 5/28/26,Thu 6/25/26
+166,            Membrane,20 days,Thu 6/04/26,Thu 7/02/26
+167,            Render,20 days,Fri 6/12/26,Thu 7/09/26
+168,            Landscaping,20 days,Fri 6/19/26,Thu 7/16/26
+169,        Entry,70 days,Fri 3/13/26,Wed 6/24/26
+170,            Incoming Services Complete,10 days,Fri 3/13/26,Thu 3/26/26
+171,            Construct Footpath Crossover,10 days,Fri 3/27/26,Mon 4/13/26
+172,            Prepare and FRP entry slabs,20 days,Tue 4/14/26,Tue 5/12/26
+173,            Construct bin enclosure,10 days,Wed 5/13/26,Tue 5/26/26
+174,            Stone finish to entry,10 days,Wed 5/27/26,Wed 6/10/26
+175,            Garage door,10 days,Thu 6/11/26,Wed 6/24/26
+176,        Backyard,54 days,Wed 4/22/26,Wed 7/08/26
+177,            Fencing,5 days,Wed 4/22/26,Wed 4/29/26
+178,            Landscaping,15 days,Thu 6/18/26,Wed 7/08/26
+179,            Pavers / Stone,5 days,Thu 6/11/26,Wed 6/17/26
+180,    Rough Ins,124 days,Tue 8/12/25,Fri 2/13/26
+181,        Basement,32 days,Tue 8/12/25,Wed 9/24/25
+182,            Insulation under slab,3 days,Tue 8/12/25,Thu 8/14/25
+183,            Hydraulic RI,10 days,Fri 8/15/25,Thu 8/28/25
+184,            Mechanical RI,10 days,Fri 8/22/25,Thu 9/04/25
+185,            Electrical RI,10 days,Fri 8/15/25,Thu 8/28/25
+186,            Elect Underfloor Heating RI,5 days,Thu 9/18/25,Wed 9/24/25
+187,        Lower Ground Floor,32 days,Tue 10/21/25,Wed 12/03/25
+188,            Insulation under slab,3 days,Tue 10/21/25,Thu 10/23/25
+189,            Hydraulic RI,10 days,Fri 10/24/25,Thu 11/06/25
+190,            Mechanical RI,10 days,Fri 10/31/25,Thu 11/13/25
+191,            Electrical RI,10 days,Fri 10/24/25,Thu 11/06/25
+192,            Elect Underfloor Heating RI,5 days,Thu 11/27/25,Wed 12/03/25
+193,        Mezzanine,45 days,Mon 11/10/25,Wed 1/21/26
+194,            Insulation under slab,2 days,Mon 11/10/25,Tue 11/11/25
+195,            Hydraulic RI,7 days,Wed 11/12/25,Thu 11/20/25
+196,            Mechanical RI,15 days,Mon 11/17/25,Fri 12/05/25
+197,            Electrical RI,15 days,Wed 11/12/25,Tue 12/02/25
+198,            Plant Room Finishes,15 days,Mon 12/22/25,Wed 1/21/26
+199,        Ground Floor & Entry Level,34 days,Wed 12/17/25,Fri 2/13/26
+200,            Insulation under slab,3 days,Wed 12/17/25,Fri 12/19/25
+201,            Hydraulic RI,10 days,Mon 12/22/25,Wed 1/14/26
+202,            Mechanical RI,10 days,Thu 1/08/26,Wed 1/21/26
+203,            Electrical RI,10 days,Mon 12/22/25,Wed 1/14/26
+204,            Elect Underfloor Heating RI,7 days,Thu 2/05/26,Fri 2/13/26
+205,        Level 1,29 days,Fri 12/12/25,Tue 2/03/26
+206,            Insulation under slab,3 days,Fri 12/12/25,Tue 12/16/25
+207,            Hydraulic RI,10 days,Wed 12/17/25,Fri 1/09/26
+208,            Mechanical RI,10 days,Fri 12/19/25,Tue 1/13/26
+209,            Electrical RI,10 days,Wed 12/17/25,Fri 1/09/26
+210,            Elect Underfloor Heating RI,5 days,Wed 1/28/26,Tue 2/03/26
+211,        Install Lift,30 days,Fri 12/12/25,Wed 2/04/26
+212,    Finishes,186 days,Fri 9/05/25,Thu 6/11/26
+213,        Basement,186 days,Fri 9/05/25,Thu 6/11/26
+214,            BMT Wet Areas,34 days,Fri 9/05/25,Thu 10/23/25
+215,                Render / Plasterboard,6 days,Fri 9/05/25,Fri 9/12/25
+216,                Plasterboard Ceiling,3 days,Mon 9/15/25,Wed 9/17/25
+217,                Waterproof nmembrane,3 days,Thu 9/18/25,Mon 9/22/25
+218,                Floor stone,3 days,Thu 9/25/25,Mon 9/29/25
+219,                Wall Stone,3 days,Tue 9/30/25,Thu 10/02/25
+220,                Vanities,3 days,Fri 10/03/25,Wed 10/08/25
+221,                Sanitary Ware & Fixtures,3 days,Tue 10/21/25,Thu 10/23/25
+222,            BMT General areas,177 days,Thu 9/18/25,Thu 6/11/26
+223,                Plasterboard Wall Linings,7 days,Thu 9/18/25,Fri 9/26/25
+224,                Plasterboard Ceiling Linings,7 days,Mon 9/29/25,Wed 10/08/25
+225,                Stone Floor,10 days,Tue 10/07/25,Mon 10/20/25
+226,                Joinery,20 days,Tue 10/14/25,Mon 11/10/25
+227,                Doors & hardware,5 days,Tue 10/21/25,Mon 10/27/25
+228,                Paint,5 days,Tue 10/28/25,Mon 11/03/25
+229,                Carpet,2 days,Tue 11/11/25,Wed 11/12/25
+230,                Fitoffs incl Cellar security grille,10 days,Tue 11/04/25,Mon 11/17/25
+231,                Complete Ceiling around stair,5 days,Tue 5/26/26,Mon 6/01/26
+232,                Paint ceiling around stair,2 days,Tue 6/02/26,Wed 6/03/26
+233,                Complete stone floor around stair,5 days,Thu 6/04/26,Thu 6/11/26
+234,        Lower Ground Floor,130 days,Fri 11/14/25,Mon 6/01/26
+235,            LGF Wet Areas,34 days,Fri 11/14/25,Mon 1/12/26
+236,                Render,6 days,Fri 11/14/25,Fri 11/21/25
+237,                Plasterboard Ceiling,3 days,Mon 11/24/25,Wed 11/26/25
+238,                Waterproof nmembrane,3 days,Thu 11/27/25,Mon 12/01/25
+239,                Floor stone,3 days,Thu 12/04/25,Mon 12/08/25
+240,                Wall Stone,3 days,Tue 12/09/25,Thu 12/11/25
+241,                Vanities,3 days,Fri 12/12/25,Tue 12/16/25
+242,                Sanitary Ware & Fixtures,3 days,Thu 1/08/26,Mon 1/12/26
+243,            LGF General areas,121 days,Thu 11/27/25,Mon 6/01/26
+244,                Plasterboard Wall Linings,7 days,Thu 11/27/25,Fri 12/05/25
+245,                Plasterboard Ceiling Linings,7 days,Mon 12/08/25,Tue 12/16/25
+246,                Stone Floor,6 days,Mon 12/15/25,Mon 12/22/25
+247,                Joinery,20 days,Mon 12/22/25,Thu 1/29/26
+248,                Doors & hardware,5 days,Tue 12/23/25,Thu 1/08/26
+249,                Paint,5 days,Fri 1/09/26,Thu 1/15/26
+250,                Carpet,5 days,Fri 1/30/26,Thu 2/05/26
+251,                Fitoffs incl Cellar security grille,10 days,Thu 2/05/26,Wed 2/18/26
+252,                Home Theatre Fitout,40 days,Thu 11/27/25,Tue 2/03/26
+253,                Complete Ceiling around stair,5 days,Tue 5/19/26,Mon 5/25/26
+254,                Paint ceiling around stair,2 days,Tue 5/26/26,Wed 5/27/26
+255,                Complete stone floor around stair,3 days,Thu 5/28/26,Mon 6/01/26
+256,        Ground Floor & Entry,84 days,Thu 1/22/26,Mon 5/25/26
+257,            GF Wet Areas,35 days,Thu 1/22/26,Thu 3/12/26
+258,                Render,6 days,Thu 1/22/26,Fri 1/30/26
+259,                Plasterboard Ceiling,3 days,Mon 2/02/26,Wed 2/04/26
+260,                Waterproof nmembrane,3 days,Thu 2/05/26,Mon 2/09/26
+261,                Floor stone,3 days,Mon 2/16/26,Wed 2/18/26
+262,                Wall Stone,3 days,Thu 2/19/26,Mon 2/23/26
+263,                Vanities,3 days,Tue 2/24/26,Thu 2/26/26
+264,                Sanitary Ware & Fixtures,3 days,Tue 3/10/26,Thu 3/12/26
+265,            GF General areas,75 days,Thu 2/05/26,Mon 5/25/26
+266,                Plasterboard Wall Linings,7 days,Thu 2/05/26,Fri 2/13/26
+267,                Plasterboard Ceiling Linings,7 days,Mon 2/16/26,Tue 2/24/26
+268,                Stone Floor,6 days,Tue 2/24/26,Tue 3/03/26
+269,                Joinery,20 days,Tue 3/03/26,Mon 3/30/26
+270,                Doors & hardware,5 days,Wed 3/04/26,Tue 3/10/26
+271,                Paint,5 days,Wed 3/11/26,Tue 3/17/26
+272,                Carpet,5 days,Tue 3/31/26,Wed 4/08/26
+273,                Fitoffs,10 days,Fri 3/27/26,Mon 4/13/26
+274,                Complete Ceiling around stair,5 days,Tue 5/12/26,Mon 5/18/26
+275,                Paint ceiling around stair,2 days,Tue 5/19/26,Wed 5/20/26
+276,                Complete stone floor around stair,3 days,Thu 5/21/26,Mon 5/25/26
+277,        First Floor,49 days,Wed 1/14/26,Tue 3/24/26
+278,            1F Wet Areas,36 days,Wed 1/14/26,Thu 3/05/26
+279,                Plasterboard Wall Linings,6 days,Wed 1/14/26,Wed 1/21/26
+280,                Plasterboard Ceiling,3 days,Thu 1/22/26,Tue 1/27/26
+281,                Waterproof nmembrane,3 days,Wed 1/28/26,Fri 1/30/26
+282,                Floor stone,3 days,Wed 2/04/26,Fri 2/06/26
+283,                Wall Stone,3 days,Mon 2/09/26,Wed 2/11/26
+284,                Vanities,3 days,Thu 2/12/26,Mon 2/16/26
+285,                Sanitary Ware & Fixtures,5 days,Fri 2/27/26,Thu 3/05/26
+286,            1F General areas,40 days,Wed 1/28/26,Tue 3/24/26
+287,                Plasterboard Wall Linings,7 days,Wed 1/28/26,Thu 2/05/26
+288,                Plasterboard Ceiling Linings,5 days,Fri 2/06/26,Thu 2/12/26
+289,                Stone Floor,2 days,Fri 2/13/26,Mon 2/16/26
+290,                Joinery,15 days,Fri 2/20/26,Thu 3/12/26
+291,                Doors & hardware,3 days,Tue 2/17/26,Thu 2/19/26
+292,                Paint,5 days,Fri 2/20/26,Thu 2/26/26
+293,                Carpet,5 days,Fri 3/13/26,Thu 3/19/26
+294,                Fitoffs ,5 days,Wed 3/18/26,Tue 3/24/26
+295,    Project Completion,90 days,Tue 4/14/26,Wed 8/19/26
+296,        Commissioning,20 days,Tue 4/14/26,Tue 5/12/26
+297,        WAE & Certificates,20 days,Tue 4/14/26,Tue 5/12/26
+298,        Project Cleaning - Internal,20 days,Fri 6/12/26,Thu 7/09/26
+299,        Project Cleaning - External,5 days,Fri 7/17/26,Thu 7/23/26
+300,        Demobilise,5 days,Fri 7/10/26,Thu 7/16/26
+301,        OC Documentation,15 days,Wed 5/13/26,Tue 6/02/26
+302,        PCA OC Approval,5 days,Wed 6/03/26,Wed 6/10/26
+303,        Inclement Weather Allowance,24 days,Fri 7/17/26,Wed 8/19/26
+304,        Practical Completion ,0 days,Thu 7/23/26,Thu 7/23/26
+305,        Gross Project Completion,0 days,Wed 8/19/26,Wed 8/19/26

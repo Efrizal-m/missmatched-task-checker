@@ -1,9 +1,9 @@
 import { chromium } from 'playwright-core';
 import { Page } from 'playwright';
 import fs from 'fs';
-import { config } from './config';
+import { config } from '../config';
 
-export const openBrowserAndPage = async (email: string, password: string) => {
+export const openBrowserAndScrape = async (email: string, password: string) => {
     try {
         const browser = await chromium.launch({ devtools: true, headless: false });
         const page = await browser.newPage();
@@ -126,4 +126,4 @@ export const login = async (page: Page, email: string, password: string) => {
     }
 };
 
-openBrowserAndPage(`${config.credentials.email}`, `${config.credentials.password}`);
+openBrowserAndScrape(`${config.credentials.email}`, `${config.credentials.password}`);
