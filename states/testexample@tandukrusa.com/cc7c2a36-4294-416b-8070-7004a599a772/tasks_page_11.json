@@ -1,0 +1,92 @@
+[
+  {
+    "taskName": "Window Surround Frames",
+    "duration": "10d",
+    "startDate": "16-12-25",
+    "endDate": "08-01-26"
+  },
+  {
+    "taskName": "Install Windows",
+    "duration": "20d",
+    "startDate": "23-12-25",
+    "endDate": "30-01-26"
+  },
+  {
+    "taskName": "External Render",
+    "duration": "44d",
+    "startDate": "26-01-26",
+    "endDate": "27-03-26"
+  },
+  {
+    "taskName": "Roof - L1",
+    "duration": "12d",
+    "startDate": "26-01-26",
+    "endDate": "11-02-26"
+  },
+  {
+    "taskName": "L1 - GF",
+    "duration": "16d",
+    "startDate": "05-02-26",
+    "endDate": "26-02-26"
+  },
+  {
+    "taskName": "GF-LGF",
+    "duration": "20d",
+    "startDate": "19-02-26",
+    "endDate": "18-03-26"
+  },
+  {
+    "taskName": "LGF-Bmt",
+    "duration": "15d",
+    "startDate": "09-03-26",
+    "endDate": "27-03-26"
+  },
+  {
+    "taskName": "External Louvres & Wall Cladding",
+    "duration": "31d",
+    "startDate": "27-02-26",
+    "endDate": "14-04-26"
+  },
+  {
+    "taskName": "Roof to GF",
+    "duration": "15d",
+    "startDate": "27-02-26",
+    "endDate": "19-03-26"
+  },
+  {
+    "taskName": "GF-BMT",
+    "duration": "10d",
+    "startDate": "30-03-26",
+    "endDate": "14-04-26"
+  },
+  {
+    "taskName": "Scaffold Removal",
+    "duration": "21d",
+    "startDate": "20-03-26",
+    "endDate": "21-04-26"
+  },
+  {
+    "taskName": "Roof to GF",
+    "duration": "5d",
+    "startDate": "20-03-26",
+    "endDate": "26-03-26"
+  },
+  {
+    "taskName": "GF-BMT",
+    "duration": "5d",
+    "startDate": "15-04-26",
+    "endDate": "21-04-26"
+  },
+  {
+    "taskName": "External Stairs & Planters Nth",
+    "duration": "60d",
+    "startDate": "22-04-26",
+    "endDate": "16-07-26"
+  },
+  {
+    "taskName": "FRP BMT - LGF",
+    "duration": "15d",
+    "startDate": "22-04-26",
+    "endDate": "13-05-26"
+  }
+]

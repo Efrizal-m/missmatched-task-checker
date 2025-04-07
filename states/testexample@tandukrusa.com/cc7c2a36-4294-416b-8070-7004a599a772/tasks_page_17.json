@@ -1,0 +1,86 @@
+[
+  {
+    "taskName": "Carpet",
+    "duration": "2d",
+    "startDate": "11-11-25",
+    "endDate": "12-11-25"
+  },
+  {
+    "taskName": "Fitoffs incl Cellar security grille",
+    "duration": "10d",
+    "startDate": "04-11-25",
+    "endDate": "17-11-25"
+  },
+  {
+    "taskName": "Complete Ceiling around stair",
+    "duration": "5d",
+    "startDate": "25-05-26",
+    "endDate": "29-05-26"
+  },
+  {
+    "taskName": "Paint ceiling around stair",
+    "duration": "2d",
+    "startDate": "01-06-26",
+    "endDate": "02-06-26"
+  },
+  {
+    "taskName": "Complete stone floor around stair",
+    "duration": "5d",
+    "startDate": "03-06-26",
+    "endDate": "10-06-26"
+  },
+  {
+    "taskName": "Lower Ground Floor",
+    "duration": "129d",
+    "startDate": "14-11-25",
+    "endDate": "29-05-26"
+  },
+  {
+    "taskName": "LGF Wet Areas",
+    "duration": "34d",
+    "startDate": "14-11-25",
+    "endDate": "12-01-26"
+  },
+  {
+    "taskName": "Render",
+    "duration": "6d",
+    "startDate": "14-11-25",
+    "endDate": "21-11-25"
+  },
+  {
+    "taskName": "Plasterboard Ceiling",
+    "duration": "3d",
+    "startDate": "24-11-25",
+    "endDate": "26-11-25"
+  },
+  {
+    "taskName": "Waterproof nmembrane",
+    "duration": "3d",
+    "startDate": "27-11-25",
+    "endDate": "01-12-25"
+  },
+  {
+    "taskName": "Floor stone",
+    "duration": "3d",
+    "startDate": "04-12-25",
+    "endDate": "08-12-25"
+  },
+  {
+    "taskName": "Wall Stone",
+    "duration": "3d",
+    "startDate": "09-12-25",
+    "endDate": "11-12-25"
+  },
+  {
+    "taskName": "Vanities",
+    "duration": "3d",
+    "startDate": "12-12-25",
+    "endDate": "16-12-25"
+  },
+  {
+    "taskName": "Sanitary Ware & Fixtures",
+    "duration": "3d",
+    "startDate": "08-01-26",
+    "endDate": "12-01-26"
+  }
+]

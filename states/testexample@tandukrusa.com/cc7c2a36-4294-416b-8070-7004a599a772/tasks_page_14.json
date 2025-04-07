@@ -1,0 +1,92 @@
+[
+  {
+    "taskName": "Elect Underfloor Heating RI",
+    "duration": "5d",
+    "startDate": "18-09-25",
+    "endDate": "24-09-25"
+  },
+  {
+    "taskName": "Lower Ground Floor",
+    "duration": "32d",
+    "startDate": "21-10-25",
+    "endDate": "03-12-25"
+  },
+  {
+    "taskName": "Insulation under slab",
+    "duration": "3d",
+    "startDate": "21-10-25",
+    "endDate": "23-10-25"
+  },
+  {
+    "taskName": "Hydraulic RI",
+    "duration": "10d",
+    "startDate": "24-10-25",
+    "endDate": "06-11-25"
+  },
+  {
+    "taskName": "Mechanical RI",
+    "duration": "10d",
+    "startDate": "31-10-25",
+    "endDate": "13-11-25"
+  },
+  {
+    "taskName": "Electrical RI",
+    "duration": "10d",
+    "startDate": "24-10-25",
+    "endDate": "06-11-25"
+  },
+  {
+    "taskName": "Elect Underfloor Heating RI",
+    "duration": "5d",
+    "startDate": "27-11-25",
+    "endDate": "03-12-25"
+  },
+  {
+    "taskName": "Mezzanine",
+    "duration": "45d",
+    "startDate": "10-11-25",
+    "endDate": "21-01-26"
+  },
+  {
+    "taskName": "Insulation under slab",
+    "duration": "2d",
+    "startDate": "10-11-25",
+    "endDate": "11-11-25"
+  },
+  {
+    "taskName": "Hydraulic RI",
+    "duration": "7d",
+    "startDate": "12-11-25",
+    "endDate": "20-11-25"
+  },
+  {
+    "taskName": "Mechanical RI",
+    "duration": "15d",
+    "startDate": "17-11-25",
+    "endDate": "05-12-25"
+  },
+  {
+    "taskName": "Electrical RI",
+    "duration": "15d",
+    "startDate": "12-11-25",
+    "endDate": "02-12-25"
+  },
+  {
+    "taskName": "Plant Room Finishes",
+    "duration": "15d",
+    "startDate": "22-12-25",
+    "endDate": "21-01-26"
+  },
+  {
+    "taskName": "Ground Floor & Entry Level",
+    "duration": "34d",
+    "startDate": "16-12-25",
+    "endDate": "12-02-26"
+  },
+  {
+    "taskName": "Insulation under slab",
+    "duration": "3d",
+    "startDate": "16-12-25",
+    "endDate": "18-12-25"
+  }
+]

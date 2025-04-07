@@ -1,0 +1,92 @@
+[
+  {
+    "taskName": "Paint",
+    "duration": "5d",
+    "startDate": "10-03-26",
+    "endDate": "16-03-26"
+  },
+  {
+    "taskName": "Carpet",
+    "duration": "5d",
+    "startDate": "30-03-26",
+    "endDate": "07-04-26"
+  },
+  {
+    "taskName": "Fitoffs",
+    "duration": "10d",
+    "startDate": "26-03-26",
+    "endDate": "10-04-26"
+  },
+  {
+    "taskName": "Complete Ceiling around stair",
+    "duration": "5d",
+    "startDate": "11-05-26",
+    "endDate": "15-05-26"
+  },
+  {
+    "taskName": "Paint ceiling around stair",
+    "duration": "2d",
+    "startDate": "18-05-26",
+    "endDate": "19-05-26"
+  },
+  {
+    "taskName": "Complete stone floor around stair",
+    "duration": "3d",
+    "startDate": "20-05-26",
+    "endDate": "22-05-26"
+  },
+  {
+    "taskName": "First Floor",
+    "duration": "49d",
+    "startDate": "13-01-26",
+    "endDate": "23-03-26"
+  },
+  {
+    "taskName": "1F Wet Areas",
+    "duration": "36d",
+    "startDate": "13-01-26",
+    "endDate": "04-03-26"
+  },
+  {
+    "taskName": "Plasterboard Wall Linings",
+    "duration": "6d",
+    "startDate": "13-01-26",
+    "endDate": "20-01-26"
+  },
+  {
+    "taskName": "Plasterboard Ceiling",
+    "duration": "3d",
+    "startDate": "21-01-26",
+    "endDate": "23-01-26"
+  },
+  {
+    "taskName": "Waterproof nmembrane",
+    "duration": "3d",
+    "startDate": "26-01-26",
+    "endDate": "29-01-26"
+  },
+  {
+    "taskName": "Floor stone",
+    "duration": "3d",
+    "startDate": "03-02-26",
+    "endDate": "05-02-26"
+  },
+  {
+    "taskName": "Wall Stone",
+    "duration": "3d",
+    "startDate": "06-02-26",
+    "endDate": "10-02-26"
+  },
+  {
+    "taskName": "Vanities",
+    "duration": "3d",
+    "startDate": "11-02-26",
+    "endDate": "13-02-26"
+  },
+  {
+    "taskName": "Sanitary Ware & Fixtures",
+    "duration": "5d",
+    "startDate": "26-02-26",
+    "endDate": "04-03-26"
+  }
+]

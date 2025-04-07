@@ -1,0 +1,92 @@
+[
+  {
+    "taskName": "Sanitary Ware & Fixtures",
+    "duration": "5d",
+    "startDate": "26-02-26",
+    "endDate": "04-03-26"
+  },
+  {
+    "taskName": "1F General areas",
+    "duration": "40d",
+    "startDate": "26-01-26",
+    "endDate": "23-03-26"
+  },
+  {
+    "taskName": "Plasterboard Wall Linings",
+    "duration": "7d",
+    "startDate": "26-01-26",
+    "endDate": "04-02-26"
+  },
+  {
+    "taskName": "Plasterboard Ceiling Linings",
+    "duration": "5d",
+    "startDate": "05-02-26",
+    "endDate": "11-02-26"
+  },
+  {
+    "taskName": "Stone Floor",
+    "duration": "2d",
+    "startDate": "12-02-26",
+    "endDate": "13-02-26"
+  },
+  {
+    "taskName": "Joinery",
+    "duration": "15d",
+    "startDate": "19-02-26",
+    "endDate": "11-03-26"
+  },
+  {
+    "taskName": "Doors & hardware",
+    "duration": "3d",
+    "startDate": "16-02-26",
+    "endDate": "18-02-26"
+  },
+  {
+    "taskName": "Paint",
+    "duration": "5d",
+    "startDate": "19-02-26",
+    "endDate": "25-02-26"
+  },
+  {
+    "taskName": "Carpet",
+    "duration": "5d",
+    "startDate": "12-03-26",
+    "endDate": "18-03-26"
+  },
+  {
+    "taskName": "Fitoffs",
+    "duration": "5d",
+    "startDate": "17-03-26",
+    "endDate": "23-03-26"
+  },
+  {
+    "taskName": "Project Completion",
+    "duration": "91d",
+    "startDate": "13-04-26",
+    "endDate": "19-08-26"
+  },
+  {
+    "taskName": "Commissioning",
+    "duration": "20d",
+    "startDate": "13-04-26",
+    "endDate": "11-05-26"
+  },
+  {
+    "taskName": "WAE & Certificates",
+    "duration": "20d",
+    "startDate": "13-04-26",
+    "endDate": "11-05-26"
+  },
+  {
+    "taskName": "Project Cleaning - Internal",
+    "duration": "20d",
+    "startDate": "11-06-26",
+    "endDate": "08-07-26"
+  },
+  {
+    "taskName": "Project Cleaning - External",
+    "duration": "5d",
+    "startDate": "17-07-26",
+    "endDate": "23-07-26"
+  }
+]

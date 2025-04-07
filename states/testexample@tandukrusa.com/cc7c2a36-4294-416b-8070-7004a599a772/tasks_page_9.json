@@ -1,0 +1,92 @@
+[
+  {
+    "taskName": "Roof",
+    "duration": "33d",
+    "startDate": "26-11-25",
+    "endDate": "21-01-26"
+  },
+  {
+    "taskName": "Install skylights",
+    "duration": "10d",
+    "startDate": "10-12-25",
+    "endDate": "23-12-25"
+  },
+  {
+    "taskName": "Roof fixings & membrane",
+    "duration": "10d",
+    "startDate": "26-11-25",
+    "endDate": "09-12-25"
+  },
+  {
+    "taskName": "Roof pebbles",
+    "duration": "3d",
+    "startDate": "02-01-26",
+    "endDate": "07-01-26"
+  },
+  {
+    "taskName": "Solar Panels",
+    "duration": "10d",
+    "startDate": "08-01-26",
+    "endDate": "21-01-26"
+  },
+  {
+    "taskName": "L1 Roof",
+    "duration": "40d",
+    "startDate": "10-12-25",
+    "endDate": "16-02-26"
+  },
+  {
+    "taskName": "Install skylights",
+    "duration": "10d",
+    "startDate": "02-01-26",
+    "endDate": "16-01-26"
+  },
+  {
+    "taskName": "Fixings & membranes",
+    "duration": "3d",
+    "startDate": "10-12-25",
+    "endDate": "12-12-25"
+  },
+  {
+    "taskName": "Landscaping",
+    "duration": "5d",
+    "startDate": "15-12-25",
+    "endDate": "19-12-25"
+  },
+  {
+    "taskName": "Install Floating Balcony & Glazed Handrails",
+    "duration": "20d",
+    "startDate": "19-01-26",
+    "endDate": "16-02-26"
+  },
+  {
+    "taskName": "GF Balcony",
+    "duration": "50d",
+    "startDate": "15-12-25",
+    "endDate": "05-03-26"
+  },
+  {
+    "taskName": "Install Handrails",
+    "duration": "5d",
+    "startDate": "27-02-26",
+    "endDate": "05-03-26"
+  },
+  {
+    "taskName": "Fixings & membranes",
+    "duration": "3d",
+    "startDate": "15-12-25",
+    "endDate": "17-12-25"
+  },
+  {
+    "taskName": "Pavers",
+    "duration": "5d",
+    "startDate": "18-12-25",
+    "endDate": "05-01-26"
+  },
+  {
+    "taskName": "Windows",
+    "duration": "114d",
+    "startDate": "15-08-25",
+    "endDate": "04-02-26"
+  }
+]

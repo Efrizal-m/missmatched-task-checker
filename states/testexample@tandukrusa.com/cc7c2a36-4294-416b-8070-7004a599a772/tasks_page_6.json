@@ -1,0 +1,92 @@
+[
+  {
+    "taskName": "Progressive shotcrete & strip drains - H2",
+    "duration": "8d",
+    "startDate": "09-12-24",
+    "endDate": "18-12-24"
+  },
+  {
+    "taskName": "Detail excavation to footings and inground Services",
+    "duration": "15d",
+    "startDate": "16-12-24",
+    "endDate": "17-01-25"
+  },
+  {
+    "taskName": "Remove Loading Platform & Piles",
+    "duration": "5d",
+    "startDate": "20-01-25",
+    "endDate": "24-01-25"
+  },
+  {
+    "taskName": "Slab base and drainage and waterproofing install",
+    "duration": "10d",
+    "startDate": "20-01-25",
+    "endDate": "03-02-25"
+  },
+  {
+    "taskName": "Exc & install SW drainage pumpout / absorption pit",
+    "duration": "10d",
+    "startDate": "20-01-25",
+    "endDate": "03-02-25"
+  },
+  {
+    "taskName": "Building Structure",
+    "duration": "214d",
+    "startDate": "04-02-25",
+    "endDate": "10-12-25"
+  },
+  {
+    "taskName": "FRP Basement Slab",
+    "duration": "17d",
+    "startDate": "04-02-25",
+    "endDate": "26-02-25"
+  },
+  {
+    "taskName": "FRP Concrete columns Bmt-LGF",
+    "duration": "10d",
+    "startDate": "27-02-25",
+    "endDate": "12-03-25"
+  },
+  {
+    "taskName": "Brickwork to LGF incl to under Ext Sth Planter",
+    "duration": "16d",
+    "startDate": "05-03-25",
+    "endDate": "26-03-25"
+  },
+  {
+    "taskName": "SW plumbing in Drainage Cavity",
+    "duration": "5d",
+    "startDate": "27-03-25",
+    "endDate": "02-04-25"
+  },
+  {
+    "taskName": "FRP LGF Slab incl Cellar vaults",
+    "duration": "31d",
+    "startDate": "27-03-25",
+    "endDate": "16-05-25"
+  },
+  {
+    "taskName": "Strip & backprop LGF Slab",
+    "duration": "3d",
+    "startDate": "07-08-25",
+    "endDate": "11-08-25"
+  },
+  {
+    "taskName": "Remove Whalers and Bracing",
+    "duration": "5d",
+    "startDate": "19-05-25",
+    "endDate": "23-05-25"
+  },
+  {
+    "taskName": "FRP Concrete columns LGF-GF",
+    "duration": "10d",
+    "startDate": "26-05-25",
+    "endDate": "06-06-25"
+  },
+  {
+    "taskName": "Section 455 Approval before delay in Critical Path",
+    "duration": "0d",
+    "startDate": "23-05-25",
+    "endDate": "23-05-25"
+  }
+]

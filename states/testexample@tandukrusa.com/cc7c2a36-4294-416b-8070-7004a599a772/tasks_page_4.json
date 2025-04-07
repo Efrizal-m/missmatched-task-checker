@@ -1,0 +1,92 @@
+[
+  {
+    "taskName": "Final Inspection",
+    "duration": "0d",
+    "startDate": "25-05-26",
+    "endDate": "25-05-26"
+  },
+  {
+    "taskName": "Demolition",
+    "duration": "25d",
+    "startDate": "25-04-24",
+    "endDate": "30-05-24"
+  },
+  {
+    "taskName": "Strip out",
+    "duration": "5d",
+    "startDate": "25-04-24",
+    "endDate": "02-05-24"
+  },
+  {
+    "taskName": "Asbestos removal",
+    "duration": "5d",
+    "startDate": "03-05-24",
+    "endDate": "09-05-24"
+  },
+  {
+    "taskName": "Building Demolition",
+    "duration": "15d",
+    "startDate": "10-05-24",
+    "endDate": "30-05-24"
+  },
+  {
+    "taskName": "Loading Platform Procurement",
+    "duration": "30d",
+    "startDate": "02-08-24",
+    "endDate": "12-09-24"
+  },
+  {
+    "taskName": "Work Shop Draw Loading Platform",
+    "duration": "10d",
+    "startDate": "02-08-24",
+    "endDate": "15-08-24"
+  },
+  {
+    "taskName": "Fabricate and deliver Loading Dock",
+    "duration": "20d",
+    "startDate": "16-08-24",
+    "endDate": "12-09-24"
+  },
+  {
+    "taskName": "Civil Works",
+    "duration": "194d",
+    "startDate": "18-04-24",
+    "endDate": "03-02-25"
+  },
+  {
+    "taskName": "Develop Shoring methodology",
+    "duration": "5d",
+    "startDate": "03-05-24",
+    "endDate": "09-05-24"
+  },
+  {
+    "taskName": "Secure Piling Rig",
+    "duration": "30d",
+    "startDate": "18-04-24",
+    "endDate": "30-05-24"
+  },
+  {
+    "taskName": "Site preparation, Strip topsoil and Sediment control",
+    "duration": "10d",
+    "startDate": "31-05-24",
+    "endDate": "14-06-24"
+  },
+  {
+    "taskName": "Piling Platform 1",
+    "duration": "10d",
+    "startDate": "31-05-24",
+    "endDate": "14-06-24"
+  },
+  {
+    "taskName": "Piling Stage 1 & Exc Mat'l removal",
+    "duration": "15d",
+    "startDate": "17-06-24",
+    "endDate": "05-07-24"
+  },
+  {
+    "taskName": "Piling Platform 2",
+    "duration": "2d",
+    "startDate": "08-07-24",
+    "endDate": "09-07-24"
+  }
+]

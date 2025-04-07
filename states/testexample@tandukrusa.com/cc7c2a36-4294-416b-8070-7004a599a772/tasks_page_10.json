@@ -1,0 +1,92 @@
+[
+  {
+    "taskName": "Windows",
+    "duration": "114d",
+    "startDate": "15-08-25",
+    "endDate": "04-02-26"
+  },
+  {
+    "taskName": "Basement",
+    "duration": "15d",
+    "startDate": "15-08-25",
+    "endDate": "04-09-25"
+  },
+  {
+    "taskName": "Window Surround Frames",
+    "duration": "10d",
+    "startDate": "15-08-25",
+    "endDate": "28-08-25"
+  },
+  {
+    "taskName": "Install Windows",
+    "duration": "10d",
+    "startDate": "22-08-25",
+    "endDate": "04-09-25"
+  },
+  {
+    "taskName": "Lower Ground Floor",
+    "duration": "25d",
+    "startDate": "24-10-25",
+    "endDate": "27-11-25"
+  },
+  {
+    "taskName": "Window Surround Frames",
+    "duration": "10d",
+    "startDate": "24-10-25",
+    "endDate": "06-11-25"
+  },
+  {
+    "taskName": "Install Windows",
+    "duration": "20d",
+    "startDate": "31-10-25",
+    "endDate": "27-11-25"
+  },
+  {
+    "taskName": "Mezzanine",
+    "duration": "10d",
+    "startDate": "08-12-25",
+    "endDate": "19-12-25"
+  },
+  {
+    "taskName": "Window Surround Frames",
+    "duration": "5d",
+    "startDate": "08-12-25",
+    "endDate": "12-12-25"
+  },
+  {
+    "taskName": "Install Windows",
+    "duration": "5d",
+    "startDate": "15-12-25",
+    "endDate": "19-12-25"
+  },
+  {
+    "taskName": "Ground Floor and Entry",
+    "duration": "25d",
+    "startDate": "19-12-25",
+    "endDate": "04-02-26"
+  },
+  {
+    "taskName": "Window Surround Frames",
+    "duration": "10d",
+    "startDate": "19-12-25",
+    "endDate": "13-01-26"
+  },
+  {
+    "taskName": "Install Windows",
+    "duration": "20d",
+    "startDate": "07-01-26",
+    "endDate": "04-02-26"
+  },
+  {
+    "taskName": "Level 1",
+    "duration": "25d",
+    "startDate": "16-12-25",
+    "endDate": "30-01-26"
+  },
+  {
+    "taskName": "Window Surround Frames",
+    "duration": "10d",
+    "startDate": "16-12-25",
+    "endDate": "08-01-26"
+  }
+]

@@ -1,0 +1,86 @@
+[
+  {
+    "taskName": "Tree Tying and trimming",
+    "duration": "5d",
+    "startDate": "24-05-24",
+    "endDate": "30-05-24"
+  },
+  {
+    "taskName": "Authority Approvals",
+    "duration": "193d",
+    "startDate": "18-04-24",
+    "endDate": "31-01-25"
+  },
+  {
+    "taskName": "CDC for Demolition",
+    "duration": "0d",
+    "startDate": "18-04-24",
+    "endDate": "18-04-24"
+  },
+  {
+    "taskName": "CC1 for complete project",
+    "duration": "20d",
+    "startDate": "18-04-24",
+    "endDate": "16-05-24"
+  },
+  {
+    "taskName": "DA 2 Submit & Approval",
+    "duration": "58d",
+    "startDate": "26-08-24",
+    "endDate": "14-11-24"
+  },
+  {
+    "taskName": "DA 2 CC2",
+    "duration": "10d",
+    "startDate": "17-01-25",
+    "endDate": "31-01-25"
+  },
+  {
+    "taskName": "Council Workzone & CTMP Application & Approval",
+    "duration": "10d",
+    "startDate": "18-04-24",
+    "endDate": "02-05-24"
+  },
+  {
+    "taskName": "Design Development",
+    "duration": "183d",
+    "startDate": "18-04-24",
+    "endDate": "16-01-25"
+  },
+  {
+    "taskName": "Design Development - Shoring",
+    "duration": "10d",
+    "startDate": "18-04-24",
+    "endDate": "02-05-24"
+  },
+  {
+    "taskName": "Design development & IFC Structure",
+    "duration": "90d",
+    "startDate": "18-04-24",
+    "endDate": "23-08-24"
+  },
+  {
+    "taskName": "DA 2 Design and documentation",
+    "duration": "90d",
+    "startDate": "18-04-24",
+    "endDate": "23-08-24"
+  },
+  {
+    "taskName": "Design develop Internals and Finishes",
+    "duration": "70d",
+    "startDate": "29-07-24",
+    "endDate": "04-11-24"
+  },
+  {
+    "taskName": "Design modifications for DA 2 approval",
+    "duration": "35d",
+    "startDate": "15-11-24",
+    "endDate": "16-01-25"
+  },
+  {
+    "taskName": "IFC for Lockup - Blind, Louvre screen Window recess and interface design Recess",
+    "duration": "40d",
+    "startDate": "26-08-24",
+    "endDate": "21-10-24"
+  }
+]

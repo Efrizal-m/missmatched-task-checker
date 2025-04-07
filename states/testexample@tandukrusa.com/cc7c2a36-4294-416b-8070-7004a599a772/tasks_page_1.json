@@ -1,0 +1,86 @@
+[
+  {
+    "taskName": "Estimated Contract Program",
+    "duration": "575d",
+    "startDate": "18-04-24",
+    "endDate": "19-08-26"
+  },
+  {
+    "taskName": "Stage 1 - Shoring & Excavation",
+    "duration": "185d",
+    "startDate": "18-04-24",
+    "endDate": "20-01-25"
+  },
+  {
+    "taskName": "Access & Demolition",
+    "duration": "30d",
+    "startDate": "18-04-24",
+    "endDate": "30-05-24"
+  },
+  {
+    "taskName": "Basement Shoring",
+    "duration": "65d",
+    "startDate": "31-05-24",
+    "endDate": "30-08-24"
+  },
+  {
+    "taskName": "Load out platform",
+    "duration": "15d",
+    "startDate": "02-09-24",
+    "endDate": "20-09-24"
+  },
+  {
+    "taskName": "Excavation",
+    "duration": "75d",
+    "startDate": "23-09-24",
+    "endDate": "20-01-25"
+  },
+  {
+    "taskName": "Stage 2 - Construction",
+    "duration": "360d",
+    "startDate": "21-01-25",
+    "endDate": "08-07-26"
+  },
+  {
+    "taskName": "Construction & Finishes",
+    "duration": "360d",
+    "startDate": "21-01-25",
+    "endDate": "08-07-26"
+  },
+  {
+    "taskName": "Inclement Weather Allowance",
+    "duration": "30d",
+    "startDate": "09-07-26",
+    "endDate": "19-08-26"
+  },
+  {
+    "taskName": "Estimated Contract Completion",
+    "duration": "0d",
+    "startDate": "19-08-26",
+    "endDate": "19-08-26"
+  },
+  {
+    "taskName": "Project Duration Summary",
+    "duration": "575d",
+    "startDate": "18-04-24",
+    "endDate": "19-08-26"
+  },
+  {
+    "taskName": "Site Establish",
+    "duration": "30d",
+    "startDate": "18-04-24",
+    "endDate": "30-05-24"
+  },
+  {
+    "taskName": "Site handover",
+    "duration": "0d",
+    "startDate": "18-04-24",
+    "endDate": "18-04-24"
+  },
+  {
+    "taskName": "Site Set up & Tree Protection",
+    "duration": "5d",
+    "startDate": "18-04-24",
+    "endDate": "24-04-24"
+  }
+]

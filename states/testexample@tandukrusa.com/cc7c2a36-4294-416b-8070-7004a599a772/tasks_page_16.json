@@ -1,0 +1,92 @@
+[
+  {
+    "taskName": "BMT Wet Areas",
+    "duration": "33d",
+    "startDate": "05-09-25",
+    "endDate": "22-10-25"
+  },
+  {
+    "taskName": "Render / Plasterboard",
+    "duration": "6d",
+    "startDate": "05-09-25",
+    "endDate": "12-09-25"
+  },
+  {
+    "taskName": "Plasterboard Ceiling",
+    "duration": "3d",
+    "startDate": "15-09-25",
+    "endDate": "17-09-25"
+  },
+  {
+    "taskName": "Waterproof nmembrane",
+    "duration": "3d",
+    "startDate": "18-09-25",
+    "endDate": "22-09-25"
+  },
+  {
+    "taskName": "Floor stone",
+    "duration": "3d",
+    "startDate": "25-09-25",
+    "endDate": "29-09-25"
+  },
+  {
+    "taskName": "Wall Stone",
+    "duration": "3d",
+    "startDate": "30-09-25",
+    "endDate": "02-10-25"
+  },
+  {
+    "taskName": "Vanities",
+    "duration": "3d",
+    "startDate": "03-10-25",
+    "endDate": "08-10-25"
+  },
+  {
+    "taskName": "Sanitary Ware & Fixtures",
+    "duration": "3d",
+    "startDate": "20-10-25",
+    "endDate": "22-10-25"
+  },
+  {
+    "taskName": "BMT General areas",
+    "duration": "176d",
+    "startDate": "18-09-25",
+    "endDate": "10-06-26"
+  },
+  {
+    "taskName": "Plasterboard Wall Linings",
+    "duration": "7d",
+    "startDate": "18-09-25",
+    "endDate": "26-09-25"
+  },
+  {
+    "taskName": "Plasterboard Ceiling Linings",
+    "duration": "7d",
+    "startDate": "29-09-25",
+    "endDate": "08-10-25"
+  },
+  {
+    "taskName": "Stone Floor",
+    "duration": "10d",
+    "startDate": "07-10-25",
+    "endDate": "20-10-25"
+  },
+  {
+    "taskName": "Joinery",
+    "duration": "20d",
+    "startDate": "14-10-25",
+    "endDate": "10-11-25"
+  },
+  {
+    "taskName": "Doors & hardware",
+    "duration": "5d",
+    "startDate": "21-10-25",
+    "endDate": "27-10-25"
+  },
+  {
+    "taskName": "Paint",
+    "duration": "5d",
+    "startDate": "28-10-25",
+    "endDate": "03-11-25"
+  }
+]

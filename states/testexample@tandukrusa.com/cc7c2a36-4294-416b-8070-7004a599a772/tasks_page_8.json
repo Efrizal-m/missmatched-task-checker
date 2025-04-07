@@ -1,0 +1,92 @@
+[
+  {
+    "taskName": "FRP Columns 1F-Roof",
+    "duration": "7d",
+    "startDate": "16-10-25",
+    "endDate": "24-10-25"
+  },
+  {
+    "taskName": "Brickwork to Roof",
+    "duration": "7d",
+    "startDate": "23-10-25",
+    "endDate": "31-10-25"
+  },
+  {
+    "taskName": "FRP Roof Slab",
+    "duration": "12d",
+    "startDate": "03-11-25",
+    "endDate": "18-11-25"
+  },
+  {
+    "taskName": "Strip Roof Slab",
+    "duration": "3d",
+    "startDate": "08-12-25",
+    "endDate": "10-12-25"
+  },
+  {
+    "taskName": "Spiral Staircase",
+    "duration": "118d",
+    "startDate": "10-11-25",
+    "endDate": "08-05-26"
+  },
+  {
+    "taskName": "FRP Basement to LGF",
+    "duration": "20d",
+    "startDate": "10-11-25",
+    "endDate": "05-12-25"
+  },
+  {
+    "taskName": "FRP LGF- GF",
+    "duration": "20d",
+    "startDate": "08-12-25",
+    "endDate": "14-01-26"
+  },
+  {
+    "taskName": "FRP GF to 1F",
+    "duration": "20d",
+    "startDate": "15-01-26",
+    "endDate": "12-02-26"
+  },
+  {
+    "taskName": "Spiral stair external finishes",
+    "duration": "20d",
+    "startDate": "12-03-26",
+    "endDate": "10-04-26"
+  },
+  {
+    "taskName": "U/S Roof Services Rough in & Ceiling and paint",
+    "duration": "10d",
+    "startDate": "13-04-26",
+    "endDate": "24-04-26"
+  },
+  {
+    "taskName": "Remove scaffold to below glass bridge",
+    "duration": "2d",
+    "startDate": "27-04-26",
+    "endDate": "29-04-26"
+  },
+  {
+    "taskName": "Install Glass Bridge",
+    "duration": "5d",
+    "startDate": "30-04-26",
+    "endDate": "06-05-26"
+  },
+  {
+    "taskName": "Remove scaffold around spiral stair",
+    "duration": "2d",
+    "startDate": "07-05-26",
+    "endDate": "08-05-26"
+  },
+  {
+    "taskName": "External Works",
+    "duration": "226d",
+    "startDate": "15-08-25",
+    "endDate": "16-07-26"
+  },
+  {
+    "taskName": "Roof",
+    "duration": "33d",
+    "startDate": "26-11-25",
+    "endDate": "21-01-26"
+  }
+]

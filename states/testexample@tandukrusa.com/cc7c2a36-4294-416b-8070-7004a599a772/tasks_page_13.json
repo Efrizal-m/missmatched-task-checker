@@ -1,0 +1,92 @@
+[
+  {
+    "taskName": "Prepare and FRP entry slabs",
+    "duration": "20d",
+    "startDate": "14-04-26",
+    "endDate": "12-05-26"
+  },
+  {
+    "taskName": "Construct bin enclosure",
+    "duration": "10d",
+    "startDate": "13-05-26",
+    "endDate": "26-05-26"
+  },
+  {
+    "taskName": "Stone finish to entry",
+    "duration": "10d",
+    "startDate": "27-05-26",
+    "endDate": "10-06-26"
+  },
+  {
+    "taskName": "Garage door",
+    "duration": "10d",
+    "startDate": "11-06-26",
+    "endDate": "24-06-26"
+  },
+  {
+    "taskName": "Backyard",
+    "duration": "54d",
+    "startDate": "22-04-26",
+    "endDate": "08-07-26"
+  },
+  {
+    "taskName": "Fencing",
+    "duration": "5d",
+    "startDate": "22-04-26",
+    "endDate": "29-04-26"
+  },
+  {
+    "taskName": "Landscaping",
+    "duration": "15d",
+    "startDate": "18-06-26",
+    "endDate": "08-07-26"
+  },
+  {
+    "taskName": "Pavers / Stone",
+    "duration": "5d",
+    "startDate": "11-06-26",
+    "endDate": "17-06-26"
+  },
+  {
+    "taskName": "Rough Ins",
+    "duration": "123d",
+    "startDate": "12-08-25",
+    "endDate": "12-02-26"
+  },
+  {
+    "taskName": "Basement",
+    "duration": "32d",
+    "startDate": "12-08-25",
+    "endDate": "24-09-25"
+  },
+  {
+    "taskName": "Insulation under slab",
+    "duration": "3d",
+    "startDate": "12-08-25",
+    "endDate": "14-08-25"
+  },
+  {
+    "taskName": "Hydraulic RI",
+    "duration": "10d",
+    "startDate": "15-08-25",
+    "endDate": "28-08-25"
+  },
+  {
+    "taskName": "Mechanical RI",
+    "duration": "10d",
+    "startDate": "22-08-25",
+    "endDate": "04-09-25"
+  },
+  {
+    "taskName": "Electrical RI",
+    "duration": "10d",
+    "startDate": "15-08-25",
+    "endDate": "28-08-25"
+  },
+  {
+    "taskName": "Elect Underfloor Heating RI",
+    "duration": "5d",
+    "startDate": "18-09-25",
+    "endDate": "24-09-25"
+  }
+]

@@ -1,0 +1,86 @@
+[
+  {
+    "taskName": "Brickwork to GF",
+    "duration": "15d",
+    "startDate": "02-06-25",
+    "endDate": "23-06-25"
+  },
+  {
+    "taskName": "FRP Mezzanine Slab incl Rainwater Tank",
+    "duration": "15d",
+    "startDate": "24-06-25",
+    "endDate": "14-07-25"
+  },
+  {
+    "taskName": "Strip & backprop Mezzanine Slab",
+    "duration": "2d",
+    "startDate": "11-08-25",
+    "endDate": "12-08-25"
+  },
+  {
+    "taskName": "Brickwork Mezz to GF incl Rainwater Tank",
+    "duration": "7d",
+    "startDate": "15-07-25",
+    "endDate": "23-07-25"
+  },
+  {
+    "taskName": "FRP GF Slab",
+    "duration": "20d",
+    "startDate": "10-07-25",
+    "endDate": "06-08-25"
+  },
+  {
+    "taskName": "Strip & backprop GF Slab",
+    "duration": "3d",
+    "startDate": "16-10-25",
+    "endDate": "20-10-25"
+  },
+  {
+    "taskName": "FRP Concrete Columns GF-1F",
+    "duration": "10d",
+    "startDate": "07-08-25",
+    "endDate": "20-08-25"
+  },
+  {
+    "taskName": "Brickwork to Entry Slab",
+    "duration": "7d",
+    "startDate": "07-08-25",
+    "endDate": "15-08-25"
+  },
+  {
+    "taskName": "SW plumbing in Drainage Cavity",
+    "duration": "10d",
+    "startDate": "11-08-25",
+    "endDate": "22-08-25"
+  },
+  {
+    "taskName": "FRP Entry Slab",
+    "duration": "12d",
+    "startDate": "18-08-25",
+    "endDate": "02-09-25"
+  },
+  {
+    "taskName": "Strip & backprop Entry Slab",
+    "duration": "3d",
+    "startDate": "05-11-25",
+    "endDate": "07-11-25"
+  },
+  {
+    "taskName": "Brickwork to First Floor",
+    "duration": "10d",
+    "startDate": "03-09-25",
+    "endDate": "16-09-25"
+  },
+  {
+    "taskName": "FRP Fist Floor Slab incl Sth Palnter Box",
+    "duration": "20d",
+    "startDate": "17-09-25",
+    "endDate": "15-10-25"
+  },
+  {
+    "taskName": "Strip & backprop 1F Slab",
+    "duration": "3d",
+    "startDate": "08-12-25",
+    "endDate": "10-12-25"
+  }
+]

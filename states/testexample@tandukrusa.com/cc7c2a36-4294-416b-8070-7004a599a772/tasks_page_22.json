@@ -1,0 +1,80 @@
+[
+  {
+    "taskName": "Carpet",
+    "duration": "5d",
+    "startDate": "12-03-26",
+    "endDate": "18-03-26"
+  },
+  {
+    "taskName": "Fitoffs",
+    "duration": "5d",
+    "startDate": "17-03-26",
+    "endDate": "23-03-26"
+  },
+  {
+    "taskName": "Project Completion",
+    "duration": "91d",
+    "startDate": "13-04-26",
+    "endDate": "19-08-26"
+  },
+  {
+    "taskName": "Commissioning",
+    "duration": "20d",
+    "startDate": "13-04-26",
+    "endDate": "11-05-26"
+  },
+  {
+    "taskName": "WAE & Certificates",
+    "duration": "20d",
+    "startDate": "13-04-26",
+    "endDate": "11-05-26"
+  },
+  {
+    "taskName": "Project Cleaning - Internal",
+    "duration": "20d",
+    "startDate": "11-06-26",
+    "endDate": "08-07-26"
+  },
+  {
+    "taskName": "Project Cleaning - External",
+    "duration": "5d",
+    "startDate": "17-07-26",
+    "endDate": "23-07-26"
+  },
+  {
+    "taskName": "Demobilise",
+    "duration": "5d",
+    "startDate": "09-07-26",
+    "endDate": "15-07-26"
+  },
+  {
+    "taskName": "OC Documentation",
+    "duration": "15d",
+    "startDate": "12-05-26",
+    "endDate": "01-06-26"
+  },
+  {
+    "taskName": "PCA OC Approval",
+    "duration": "5d",
+    "startDate": "02-06-26",
+    "endDate": "09-06-26"
+  },
+  {
+    "taskName": "Inclement Weather Allowance",
+    "duration": "24d",
+    "startDate": "17-07-26",
+    "endDate": "19-08-26"
+  },
+  {
+    "taskName": "Practical Completion",
+    "duration": "0d",
+    "startDate": "23-07-26",
+    "endDate": "23-07-26"
+  },
+  {
+    "taskName": "Gross Project Completion",
+    "duration": "0d",
+    "startDate": "19-08-26",
+    "endDate": "19-08-26"
+  }
+]

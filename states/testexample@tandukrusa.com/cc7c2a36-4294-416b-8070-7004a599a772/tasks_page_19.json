@@ -1,0 +1,92 @@
+[
+  {
+    "taskName": "GF Wet Areas",
+    "duration": "35d",
+    "startDate": "21-01-26",
+    "endDate": "11-03-26"
+  },
+  {
+    "taskName": "Render",
+    "duration": "6d",
+    "startDate": "21-01-26",
+    "endDate": "29-01-26"
+  },
+  {
+    "taskName": "Plasterboard Ceiling",
+    "duration": "3d",
+    "startDate": "30-01-26",
+    "endDate": "03-02-26"
+  },
+  {
+    "taskName": "Waterproof nmembrane",
+    "duration": "3d",
+    "startDate": "04-02-26",
+    "endDate": "06-02-26"
+  },
+  {
+    "taskName": "Floor stone",
+    "duration": "3d",
+    "startDate": "13-02-26",
+    "endDate": "17-02-26"
+  },
+  {
+    "taskName": "Wall Stone",
+    "duration": "3d",
+    "startDate": "18-02-26",
+    "endDate": "20-02-26"
+  },
+  {
+    "taskName": "Vanities",
+    "duration": "3d",
+    "startDate": "23-02-26",
+    "endDate": "25-02-26"
+  },
+  {
+    "taskName": "Sanitary Ware & Fixtures",
+    "duration": "3d",
+    "startDate": "09-03-26",
+    "endDate": "11-03-26"
+  },
+  {
+    "taskName": "GF General areas",
+    "duration": "75d",
+    "startDate": "04-02-26",
+    "endDate": "22-05-26"
+  },
+  {
+    "taskName": "Plasterboard Wall Linings",
+    "duration": "7d",
+    "startDate": "04-02-26",
+    "endDate": "12-02-26"
+  },
+  {
+    "taskName": "Plasterboard Ceiling Linings",
+    "duration": "7d",
+    "startDate": "13-02-26",
+    "endDate": "23-02-26"
+  },
+  {
+    "taskName": "Stone Floor",
+    "duration": "6d",
+    "startDate": "23-02-26",
+    "endDate": "02-03-26"
+  },
+  {
+    "taskName": "Joinery",
+    "duration": "20d",
+    "startDate": "02-03-26",
+    "endDate": "27-03-26"
+  },
+  {
+    "taskName": "Doors & hardware",
+    "duration": "5d",
+    "startDate": "03-03-26",
+    "endDate": "09-03-26"
+  },
+  {
+    "taskName": "Paint",
+    "duration": "5d",
+    "startDate": "10-03-26",
+    "endDate": "16-03-26"
+  }
+]

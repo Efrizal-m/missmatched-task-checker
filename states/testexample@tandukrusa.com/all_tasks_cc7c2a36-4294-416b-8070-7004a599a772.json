@@ -1,0 +1,1826 @@
+[
+  {
+    "taskName": "Estimated Contract Program",
+    "duration": "575d",
+    "startDate": "18-04-24",
+    "endDate": "19-08-26"
+  },
+  {
+    "taskName": "Stage 1 - Shoring & Excavation",
+    "duration": "185d",
+    "startDate": "18-04-24",
+    "endDate": "20-01-25"
+  },
+  {
+    "taskName": "Access & Demolition",
+    "duration": "30d",
+    "startDate": "18-04-24",
+    "endDate": "30-05-24"
+  },
+  {
+    "taskName": "Basement Shoring",
+    "duration": "65d",
+    "startDate": "31-05-24",
+    "endDate": "30-08-24"
+  },
+  {
+    "taskName": "Load out platform",
+    "duration": "15d",
+    "startDate": "02-09-24",
+    "endDate": "20-09-24"
+  },
+  {
+    "taskName": "Excavation",
+    "duration": "75d",
+    "startDate": "23-09-24",
+    "endDate": "20-01-25"
+  },
+  {
+    "taskName": "Stage 2 - Construction",
+    "duration": "360d",
+    "startDate": "21-01-25",
+    "endDate": "08-07-26"
+  },
+  {
+    "taskName": "Construction & Finishes",
+    "duration": "360d",
+    "startDate": "21-01-25",
+    "endDate": "08-07-26"
+  },
+  {
+    "taskName": "Inclement Weather Allowance",
+    "duration": "30d",
+    "startDate": "09-07-26",
+    "endDate": "19-08-26"
+  },
+  {
+    "taskName": "Estimated Contract Completion",
+    "duration": "0d",
+    "startDate": "19-08-26",
+    "endDate": "19-08-26"
+  },
+  {
+    "taskName": "Project Duration Summary",
+    "duration": "575d",
+    "startDate": "18-04-24",
+    "endDate": "19-08-26"
+  },
+  {
+    "taskName": "Site Establish",
+    "duration": "30d",
+    "startDate": "18-04-24",
+    "endDate": "30-05-24"
+  },
+  {
+    "taskName": "Site handover",
+    "duration": "0d",
+    "startDate": "18-04-24",
+    "endDate": "18-04-24"
+  },
+  {
+    "taskName": "Site Set up & Tree Protection",
+    "duration": "5d",
+    "startDate": "18-04-24",
+    "endDate": "24-04-24"
+  },
+  {
+    "taskName": "Tree Tying and trimming",
+    "duration": "5d",
+    "startDate": "24-05-24",
+    "endDate": "30-05-24"
+  },
+  {
+    "taskName": "Authority Approvals",
+    "duration": "193d",
+    "startDate": "18-04-24",
+    "endDate": "31-01-25"
+  },
+  {
+    "taskName": "CDC for Demolition",
+    "duration": "0d",
+    "startDate": "18-04-24",
+    "endDate": "18-04-24"
+  },
+  {
+    "taskName": "CC1 for complete project",
+    "duration": "20d",
+    "startDate": "18-04-24",
+    "endDate": "16-05-24"
+  },
+  {
+    "taskName": "DA 2 Submit & Approval",
+    "duration": "58d",
+    "startDate": "26-08-24",
+    "endDate": "14-11-24"
+  },
+  {
+    "taskName": "DA 2 CC2",
+    "duration": "10d",
+    "startDate": "17-01-25",
+    "endDate": "31-01-25"
+  },
+  {
+    "taskName": "Council Workzone & CTMP Application & Approval",
+    "duration": "10d",
+    "startDate": "18-04-24",
+    "endDate": "02-05-24"
+  },
+  {
+    "taskName": "Design Development",
+    "duration": "183d",
+    "startDate": "18-04-24",
+    "endDate": "16-01-25"
+  },
+  {
+    "taskName": "Design Development - Shoring",
+    "duration": "10d",
+    "startDate": "18-04-24",
+    "endDate": "02-05-24"
+  },
+  {
+    "taskName": "Design development & IFC Structure",
+    "duration": "90d",
+    "startDate": "18-04-24",
+    "endDate": "23-08-24"
+  },
+  {
+    "taskName": "DA 2 Design and documentation",
+    "duration": "90d",
+    "startDate": "18-04-24",
+    "endDate": "23-08-24"
+  },
+  {
+    "taskName": "Design develop Internals and Finishes",
+    "duration": "70d",
+    "startDate": "29-07-24",
+    "endDate": "04-11-24"
+  },
+  {
+    "taskName": "Design modifications for DA 2 approval",
+    "duration": "35d",
+    "startDate": "15-11-24",
+    "endDate": "16-01-25"
+  },
+  {
+    "taskName": "IFC for Lockup - Blind, Louvre screen Window recess and interface design Recess",
+    "duration": "40d",
+    "startDate": "26-08-24",
+    "endDate": "21-10-24"
+  },
+  {
+    "taskName": "Inspections",
+    "duration": "509d",
+    "startDate": "24-04-24",
+    "endDate": "25-05-26"
+  },
+  {
+    "taskName": "Arborist",
+    "duration": "188d",
+    "startDate": "25-04-24",
+    "endDate": "03-02-25"
+  },
+  {
+    "taskName": "Pre Demolition",
+    "duration": "0d",
+    "startDate": "25-04-24",
+    "endDate": "25-04-24"
+  },
+  {
+    "taskName": "Excavation Commencement",
+    "duration": "0d",
+    "startDate": "30-05-24",
+    "endDate": "30-05-24"
+  },
+  {
+    "taskName": "Tree Crown or Root pruning",
+    "duration": "0d",
+    "startDate": "30-05-24",
+    "endDate": "30-05-24"
+  },
+  {
+    "taskName": "Construction Commencment",
+    "duration": "0d",
+    "startDate": "03-02-25",
+    "endDate": "03-02-25"
+  },
+  {
+    "taskName": "PCA",
+    "duration": "509d",
+    "startDate": "24-04-24",
+    "endDate": "25-05-26"
+  },
+  {
+    "taskName": "Site Inpsection",
+    "duration": "0d",
+    "startDate": "24-04-24",
+    "endDate": "24-04-24"
+  },
+  {
+    "taskName": "Commencment",
+    "duration": "0d",
+    "startDate": "02-05-24",
+    "endDate": "02-05-24"
+  },
+  {
+    "taskName": "Pier Inspection",
+    "duration": "0d",
+    "startDate": "17-06-24",
+    "endDate": "17-06-24"
+  },
+  {
+    "taskName": "Slab Inspection",
+    "duration": "0d",
+    "startDate": "03-02-25",
+    "endDate": "03-02-25"
+  },
+  {
+    "taskName": "Stormwater Inspection",
+    "duration": "0d",
+    "startDate": "20-01-25",
+    "endDate": "20-01-25"
+  },
+  {
+    "taskName": "Framework Inspection",
+    "duration": "0d",
+    "startDate": "10-02-25",
+    "endDate": "10-02-25"
+  },
+  {
+    "taskName": "Wet Area Inspection",
+    "duration": "0d",
+    "startDate": "17-09-25",
+    "endDate": "17-09-25"
+  },
+  {
+    "taskName": "Final Inspection",
+    "duration": "0d",
+    "startDate": "25-05-26",
+    "endDate": "25-05-26"
+  },
+  {
+    "taskName": "Demolition",
+    "duration": "25d",
+    "startDate": "25-04-24",
+    "endDate": "30-05-24"
+  },
+  {
+    "taskName": "Strip out",
+    "duration": "5d",
+    "startDate": "25-04-24",
+    "endDate": "02-05-24"
+  },
+  {
+    "taskName": "Asbestos removal",
+    "duration": "5d",
+    "startDate": "03-05-24",
+    "endDate": "09-05-24"
+  },
+  {
+    "taskName": "Building Demolition",
+    "duration": "15d",
+    "startDate": "10-05-24",
+    "endDate": "30-05-24"
+  },
+  {
+    "taskName": "Loading Platform Procurement",
+    "duration": "30d",
+    "startDate": "02-08-24",
+    "endDate": "12-09-24"
+  },
+  {
+    "taskName": "Work Shop Draw Loading Platform",
+    "duration": "10d",
+    "startDate": "02-08-24",
+    "endDate": "15-08-24"
+  },
+  {
+    "taskName": "Fabricate and deliver Loading Dock",
+    "duration": "20d",
+    "startDate": "16-08-24",
+    "endDate": "12-09-24"
+  },
+  {
+    "taskName": "Civil Works",
+    "duration": "194d",
+    "startDate": "18-04-24",
+    "endDate": "03-02-25"
+  },
+  {
+    "taskName": "Develop Shoring methodology",
+    "duration": "5d",
+    "startDate": "03-05-24",
+    "endDate": "09-05-24"
+  },
+  {
+    "taskName": "Secure Piling Rig",
+    "duration": "30d",
+    "startDate": "18-04-24",
+    "endDate": "30-05-24"
+  },
+  {
+    "taskName": "Site preparation, Strip topsoil and Sediment control",
+    "duration": "10d",
+    "startDate": "31-05-24",
+    "endDate": "14-06-24"
+  },
+  {
+    "taskName": "Piling Platform 1",
+    "duration": "10d",
+    "startDate": "31-05-24",
+    "endDate": "14-06-24"
+  },
+  {
+    "taskName": "Piling Stage 1 & Exc Mat'l removal",
+    "duration": "15d",
+    "startDate": "17-06-24",
+    "endDate": "05-07-24"
+  },
+  {
+    "taskName": "Piling Platform 2",
+    "duration": "2d",
+    "startDate": "08-07-24",
+    "endDate": "09-07-24"
+  },
+  {
+    "taskName": "Piling Stage 2 & Exc Mat'l removal",
+    "duration": "10d",
+    "startDate": "10-07-24",
+    "endDate": "23-07-24"
+  },
+  {
+    "taskName": "Piling Platform 3",
+    "duration": "2d",
+    "startDate": "24-07-24",
+    "endDate": "25-07-24"
+  },
+  {
+    "taskName": "Piling Stage 3 & Exc Mat'l removal",
+    "duration": "15d",
+    "startDate": "26-07-24",
+    "endDate": "15-08-24"
+  },
+  {
+    "taskName": "Exc & FRP Pile caps - Stage 1",
+    "duration": "20d",
+    "startDate": "16-08-24",
+    "endDate": "12-09-24"
+  },
+  {
+    "taskName": "Exc & FRP Pile caps - Stage 2",
+    "duration": "10d",
+    "startDate": "13-09-24",
+    "endDate": "26-09-24"
+  },
+  {
+    "taskName": "Exc & FRP Pile caps - Stage 3",
+    "duration": "10d",
+    "startDate": "27-09-24",
+    "endDate": "11-10-24"
+  },
+  {
+    "taskName": "Install Loading platform, Steel, Bondeck, FRP",
+    "duration": "15d",
+    "startDate": "13-09-24",
+    "endDate": "03-10-24"
+  },
+  {
+    "taskName": "Cure Loading Platform",
+    "duration": "7d",
+    "startDate": "04-10-24",
+    "endDate": "15-10-24"
+  },
+  {
+    "taskName": "Excavation  to H1",
+    "duration": "15d",
+    "startDate": "16-10-24",
+    "endDate": "05-11-24"
+  },
+  {
+    "taskName": "Progressive shotcrete & strip drains - H1",
+    "duration": "25d",
+    "startDate": "04-10-24",
+    "endDate": "08-11-24"
+  },
+  {
+    "taskName": "Install steel whalers & bracing",
+    "duration": "10d",
+    "startDate": "11-11-24",
+    "endDate": "22-11-24"
+  },
+  {
+    "taskName": "Excavation to H2",
+    "duration": "10d",
+    "startDate": "25-11-24",
+    "endDate": "06-12-24"
+  },
+  {
+    "taskName": "Progressive Chop down Basement piles to height",
+    "duration": "15d",
+    "startDate": "25-11-24",
+    "endDate": "13-12-24"
+  },
+  {
+    "taskName": "Progressive shotcrete & strip drains - H2",
+    "duration": "8d",
+    "startDate": "09-12-24",
+    "endDate": "18-12-24"
+  },
+  {
+    "taskName": "Detail excavation to footings and inground Services",
+    "duration": "15d",
+    "startDate": "16-12-24",
+    "endDate": "17-01-25"
+  },
+  {
+    "taskName": "Remove Loading Platform & Piles",
+    "duration": "5d",
+    "startDate": "20-01-25",
+    "endDate": "24-01-25"
+  },
+  {
+    "taskName": "Slab base and drainage and waterproofing install",
+    "duration": "10d",
+    "startDate": "20-01-25",
+    "endDate": "03-02-25"
+  },
+  {
+    "taskName": "Exc & install SW drainage pumpout / absorption pit",
+    "duration": "10d",
+    "startDate": "20-01-25",
+    "endDate": "03-02-25"
+  },
+  {
+    "taskName": "Building Structure",
+    "duration": "214d",
+    "startDate": "04-02-25",
+    "endDate": "10-12-25"
+  },
+  {
+    "taskName": "FRP Basement Slab",
+    "duration": "17d",
+    "startDate": "04-02-25",
+    "endDate": "26-02-25"
+  },
+  {
+    "taskName": "FRP Concrete columns Bmt-LGF",
+    "duration": "10d",
+    "startDate": "27-02-25",
+    "endDate": "12-03-25"
+  },
+  {
+    "taskName": "Brickwork to LGF incl to under Ext Sth Planter",
+    "duration": "16d",
+    "startDate": "05-03-25",
+    "endDate": "26-03-25"
+  },
+  {
+    "taskName": "SW plumbing in Drainage Cavity",
+    "duration": "5d",
+    "startDate": "27-03-25",
+    "endDate": "02-04-25"
+  },
+  {
+    "taskName": "FRP LGF Slab incl Cellar vaults",
+    "duration": "31d",
+    "startDate": "27-03-25",
+    "endDate": "16-05-25"
+  },
+  {
+    "taskName": "Strip & backprop LGF Slab",
+    "duration": "3d",
+    "startDate": "07-08-25",
+    "endDate": "11-08-25"
+  },
+  {
+    "taskName": "Remove Whalers and Bracing",
+    "duration": "5d",
+    "startDate": "19-05-25",
+    "endDate": "23-05-25"
+  },
+  {
+    "taskName": "FRP Concrete columns LGF-GF",
+    "duration": "10d",
+    "startDate": "26-05-25",
+    "endDate": "06-06-25"
+  },
+  {
+    "taskName": "Section 455 Approval before delay in Critical Path",
+    "duration": "0d",
+    "startDate": "23-05-25",
+    "endDate": "23-05-25"
+  },
+  {
+    "taskName": "Brickwork to GF",
+    "duration": "15d",
+    "startDate": "02-06-25",
+    "endDate": "23-06-25"
+  },
+  {
+    "taskName": "FRP Mezzanine Slab incl Rainwater Tank",
+    "duration": "15d",
+    "startDate": "24-06-25",
+    "endDate": "14-07-25"
+  },
+  {
+    "taskName": "Strip & backprop Mezzanine Slab",
+    "duration": "2d",
+    "startDate": "11-08-25",
+    "endDate": "12-08-25"
+  },
+  {
+    "taskName": "Brickwork Mezz to GF incl Rainwater Tank",
+    "duration": "7d",
+    "startDate": "15-07-25",
+    "endDate": "23-07-25"
+  },
+  {
+    "taskName": "FRP GF Slab",
+    "duration": "20d",
+    "startDate": "10-07-25",
+    "endDate": "06-08-25"
+  },
+  {
+    "taskName": "Strip & backprop GF Slab",
+    "duration": "3d",
+    "startDate": "16-10-25",
+    "endDate": "20-10-25"
+  },
+  {
+    "taskName": "FRP Concrete Columns GF-1F",
+    "duration": "10d",
+    "startDate": "07-08-25",
+    "endDate": "20-08-25"
+  },
+  {
+    "taskName": "Brickwork to Entry Slab",
+    "duration": "7d",
+    "startDate": "07-08-25",
+    "endDate": "15-08-25"
+  },
+  {
+    "taskName": "SW plumbing in Drainage Cavity",
+    "duration": "10d",
+    "startDate": "11-08-25",
+    "endDate": "22-08-25"
+  },
+  {
+    "taskName": "FRP Entry Slab",
+    "duration": "12d",
+    "startDate": "18-08-25",
+    "endDate": "02-09-25"
+  },
+  {
+    "taskName": "Strip & backprop Entry Slab",
+    "duration": "3d",
+    "startDate": "05-11-25",
+    "endDate": "07-11-25"
+  },
+  {
+    "taskName": "Brickwork to First Floor",
+    "duration": "10d",
+    "startDate": "03-09-25",
+    "endDate": "16-09-25"
+  },
+  {
+    "taskName": "FRP Fist Floor Slab incl Sth Palnter Box",
+    "duration": "20d",
+    "startDate": "17-09-25",
+    "endDate": "15-10-25"
+  },
+  {
+    "taskName": "Strip & backprop 1F Slab",
+    "duration": "3d",
+    "startDate": "08-12-25",
+    "endDate": "10-12-25"
+  },
+  {
+    "taskName": "FRP Columns 1F-Roof",
+    "duration": "7d",
+    "startDate": "16-10-25",
+    "endDate": "24-10-25"
+  },
+  {
+    "taskName": "Brickwork to Roof",
+    "duration": "7d",
+    "startDate": "23-10-25",
+    "endDate": "31-10-25"
+  },
+  {
+    "taskName": "FRP Roof Slab",
+    "duration": "12d",
+    "startDate": "03-11-25",
+    "endDate": "18-11-25"
+  },
+  {
+    "taskName": "Strip Roof Slab",
+    "duration": "3d",
+    "startDate": "08-12-25",
+    "endDate": "10-12-25"
+  },
+  {
+    "taskName": "Spiral Staircase",
+    "duration": "118d",
+    "startDate": "10-11-25",
+    "endDate": "08-05-26"
+  },
+  {
+    "taskName": "FRP Basement to LGF",
+    "duration": "20d",
+    "startDate": "10-11-25",
+    "endDate": "05-12-25"
+  },
+  {
+    "taskName": "FRP LGF- GF",
+    "duration": "20d",
+    "startDate": "08-12-25",
+    "endDate": "14-01-26"
+  },
+  {
+    "taskName": "FRP GF to 1F",
+    "duration": "20d",
+    "startDate": "15-01-26",
+    "endDate": "12-02-26"
+  },
+  {
+    "taskName": "Spiral stair external finishes",
+    "duration": "20d",
+    "startDate": "12-03-26",
+    "endDate": "10-04-26"
+  },
+  {
+    "taskName": "U/S Roof Services Rough in & Ceiling and paint",
+    "duration": "10d",
+    "startDate": "13-04-26",
+    "endDate": "24-04-26"
+  },
+  {
+    "taskName": "Remove scaffold to below glass bridge",
+    "duration": "2d",
+    "startDate": "27-04-26",
+    "endDate": "29-04-26"
+  },
+  {
+    "taskName": "Install Glass Bridge",
+    "duration": "5d",
+    "startDate": "30-04-26",
+    "endDate": "06-05-26"
+  },
+  {
+    "taskName": "Remove scaffold around spiral stair",
+    "duration": "2d",
+    "startDate": "07-05-26",
+    "endDate": "08-05-26"
+  },
+  {
+    "taskName": "External Works",
+    "duration": "226d",
+    "startDate": "15-08-25",
+    "endDate": "16-07-26"
+  },
+  {
+    "taskName": "Roof",
+    "duration": "33d",
+    "startDate": "26-11-25",
+    "endDate": "21-01-26"
+  },
+  {
+    "taskName": "Install skylights",
+    "duration": "10d",
+    "startDate": "10-12-25",
+    "endDate": "23-12-25"
+  },
+  {
+    "taskName": "Roof fixings & membrane",
+    "duration": "10d",
+    "startDate": "26-11-25",
+    "endDate": "09-12-25"
+  },
+  {
+    "taskName": "Roof pebbles",
+    "duration": "3d",
+    "startDate": "02-01-26",
+    "endDate": "07-01-26"
+  },
+  {
+    "taskName": "Solar Panels",
+    "duration": "10d",
+    "startDate": "08-01-26",
+    "endDate": "21-01-26"
+  },
+  {
+    "taskName": "L1 Roof",
+    "duration": "40d",
+    "startDate": "10-12-25",
+    "endDate": "16-02-26"
+  },
+  {
+    "taskName": "Install skylights",
+    "duration": "10d",
+    "startDate": "02-01-26",
+    "endDate": "16-01-26"
+  },
+  {
+    "taskName": "Fixings & membranes",
+    "duration": "3d",
+    "startDate": "10-12-25",
+    "endDate": "12-12-25"
+  },
+  {
+    "taskName": "Landscaping",
+    "duration": "5d",
+    "startDate": "15-12-25",
+    "endDate": "19-12-25"
+  },
+  {
+    "taskName": "Install Floating Balcony & Glazed Handrails",
+    "duration": "20d",
+    "startDate": "19-01-26",
+    "endDate": "16-02-26"
+  },
+  {
+    "taskName": "GF Balcony",
+    "duration": "50d",
+    "startDate": "15-12-25",
+    "endDate": "05-03-26"
+  },
+  {
+    "taskName": "Install Handrails",
+    "duration": "5d",
+    "startDate": "27-02-26",
+    "endDate": "05-03-26"
+  },
+  {
+    "taskName": "Fixings & membranes",
+    "duration": "3d",
+    "startDate": "15-12-25",
+    "endDate": "17-12-25"
+  },
+  {
+    "taskName": "Pavers",
+    "duration": "5d",
+    "startDate": "18-12-25",
+    "endDate": "05-01-26"
+  },
+  {
+    "taskName": "Windows",
+    "duration": "114d",
+    "startDate": "15-08-25",
+    "endDate": "04-02-26"
+  },
+  {
+    "taskName": "Basement",
+    "duration": "15d",
+    "startDate": "15-08-25",
+    "endDate": "04-09-25"
+  },
+  {
+    "taskName": "Window Surround Frames",
+    "duration": "10d",
+    "startDate": "15-08-25",
+    "endDate": "28-08-25"
+  },
+  {
+    "taskName": "Install Windows",
+    "duration": "10d",
+    "startDate": "22-08-25",
+    "endDate": "04-09-25"
+  },
+  {
+    "taskName": "Lower Ground Floor",
+    "duration": "25d",
+    "startDate": "24-10-25",
+    "endDate": "27-11-25"
+  },
+  {
+    "taskName": "Window Surround Frames",
+    "duration": "10d",
+    "startDate": "24-10-25",
+    "endDate": "06-11-25"
+  },
+  {
+    "taskName": "Install Windows",
+    "duration": "20d",
+    "startDate": "31-10-25",
+    "endDate": "27-11-25"
+  },
+  {
+    "taskName": "Mezzanine",
+    "duration": "10d",
+    "startDate": "08-12-25",
+    "endDate": "19-12-25"
+  },
+  {
+    "taskName": "Window Surround Frames",
+    "duration": "5d",
+    "startDate": "08-12-25",
+    "endDate": "12-12-25"
+  },
+  {
+    "taskName": "Install Windows",
+    "duration": "5d",
+    "startDate": "15-12-25",
+    "endDate": "19-12-25"
+  },
+  {
+    "taskName": "Ground Floor and Entry",
+    "duration": "25d",
+    "startDate": "19-12-25",
+    "endDate": "04-02-26"
+  },
+  {
+    "taskName": "Window Surround Frames",
+    "duration": "10d",
+    "startDate": "19-12-25",
+    "endDate": "13-01-26"
+  },
+  {
+    "taskName": "Install Windows",
+    "duration": "20d",
+    "startDate": "07-01-26",
+    "endDate": "04-02-26"
+  },
+  {
+    "taskName": "Level 1",
+    "duration": "25d",
+    "startDate": "16-12-25",
+    "endDate": "30-01-26"
+  },
+  {
+    "taskName": "Window Surround Frames",
+    "duration": "10d",
+    "startDate": "16-12-25",
+    "endDate": "08-01-26"
+  },
+  {
+    "taskName": "Install Windows",
+    "duration": "20d",
+    "startDate": "23-12-25",
+    "endDate": "30-01-26"
+  },
+  {
+    "taskName": "External Render",
+    "duration": "44d",
+    "startDate": "26-01-26",
+    "endDate": "27-03-26"
+  },
+  {
+    "taskName": "Roof - L1",
+    "duration": "12d",
+    "startDate": "26-01-26",
+    "endDate": "11-02-26"
+  },
+  {
+    "taskName": "L1 - GF",
+    "duration": "16d",
+    "startDate": "05-02-26",
+    "endDate": "26-02-26"
+  },
+  {
+    "taskName": "GF-LGF",
+    "duration": "20d",
+    "startDate": "19-02-26",
+    "endDate": "18-03-26"
+  },
+  {
+    "taskName": "LGF-Bmt",
+    "duration": "15d",
+    "startDate": "09-03-26",
+    "endDate": "27-03-26"
+  },
+  {
+    "taskName": "External Louvres & Wall Cladding",
+    "duration": "31d",
+    "startDate": "27-02-26",
+    "endDate": "14-04-26"
+  },
+  {
+    "taskName": "Roof to GF",
+    "duration": "15d",
+    "startDate": "27-02-26",
+    "endDate": "19-03-26"
+  },
+  {
+    "taskName": "GF-BMT",
+    "duration": "10d",
+    "startDate": "30-03-26",
+    "endDate": "14-04-26"
+  },
+  {
+    "taskName": "Scaffold Removal",
+    "duration": "21d",
+    "startDate": "20-03-26",
+    "endDate": "21-04-26"
+  },
+  {
+    "taskName": "Roof to GF",
+    "duration": "5d",
+    "startDate": "20-03-26",
+    "endDate": "26-03-26"
+  },
+  {
+    "taskName": "GF-BMT",
+    "duration": "5d",
+    "startDate": "15-04-26",
+    "endDate": "21-04-26"
+  },
+  {
+    "taskName": "External Stairs & Planters Nth",
+    "duration": "60d",
+    "startDate": "22-04-26",
+    "endDate": "16-07-26"
+  },
+  {
+    "taskName": "FRP BMT - LGF",
+    "duration": "15d",
+    "startDate": "22-04-26",
+    "endDate": "13-05-26"
+  },
+  {
+    "taskName": "LGF - GF",
+    "duration": "15d",
+    "startDate": "14-05-26",
+    "endDate": "03-06-26"
+  },
+  {
+    "taskName": "GF-Entry",
+    "duration": "15d",
+    "startDate": "04-06-26",
+    "endDate": "25-06-26"
+  },
+  {
+    "taskName": "Stair stone Paving & handrails",
+    "duration": "20d",
+    "startDate": "19-06-26",
+    "endDate": "16-07-26"
+  },
+  {
+    "taskName": "Planter Boxes South",
+    "duration": "60d",
+    "startDate": "22-04-26",
+    "endDate": "16-07-26"
+  },
+  {
+    "taskName": "FRP Stairs Bmt -LGF",
+    "duration": "10d",
+    "startDate": "22-04-26",
+    "endDate": "06-05-26"
+  },
+  {
+    "taskName": "FRP Stepped Planter Boxes LGF - GF",
+    "duration": "20d",
+    "startDate": "07-05-26",
+    "endDate": "03-06-26"
+  },
+  {
+    "taskName": "Blockwork to Planters LGF - GF",
+    "duration": "20d",
+    "startDate": "14-05-26",
+    "endDate": "11-06-26"
+  },
+  {
+    "taskName": "Topping to falls",
+    "duration": "20d",
+    "startDate": "28-05-26",
+    "endDate": "25-06-26"
+  },
+  {
+    "taskName": "Membrane",
+    "duration": "20d",
+    "startDate": "04-06-26",
+    "endDate": "02-07-26"
+  },
+  {
+    "taskName": "Render",
+    "duration": "20d",
+    "startDate": "12-06-26",
+    "endDate": "09-07-26"
+  },
+  {
+    "taskName": "Landscaping",
+    "duration": "20d",
+    "startDate": "19-06-26",
+    "endDate": "16-07-26"
+  },
+  {
+    "taskName": "Entry",
+    "duration": "70d",
+    "startDate": "13-03-26",
+    "endDate": "24-06-26"
+  },
+  {
+    "taskName": "Incoming Services Complete",
+    "duration": "10d",
+    "startDate": "13-03-26",
+    "endDate": "26-03-26"
+  },
+  {
+    "taskName": "Construct Footpath Crossover",
+    "duration": "10d",
+    "startDate": "27-03-26",
+    "endDate": "13-04-26"
+  },
+  {
+    "taskName": "Prepare and FRP entry slabs",
+    "duration": "20d",
+    "startDate": "14-04-26",
+    "endDate": "12-05-26"
+  },
+  {
+    "taskName": "Construct bin enclosure",
+    "duration": "10d",
+    "startDate": "13-05-26",
+    "endDate": "26-05-26"
+  },
+  {
+    "taskName": "Stone finish to entry",
+    "duration": "10d",
+    "startDate": "27-05-26",
+    "endDate": "10-06-26"
+  },
+  {
+    "taskName": "Garage door",
+    "duration": "10d",
+    "startDate": "11-06-26",
+    "endDate": "24-06-26"
+  },
+  {
+    "taskName": "Backyard",
+    "duration": "54d",
+    "startDate": "22-04-26",
+    "endDate": "08-07-26"
+  },
+  {
+    "taskName": "Fencing",
+    "duration": "5d",
+    "startDate": "22-04-26",
+    "endDate": "29-04-26"
+  },
+  {
+    "taskName": "Landscaping",
+    "duration": "15d",
+    "startDate": "18-06-26",
+    "endDate": "08-07-26"
+  },
+  {
+    "taskName": "Pavers / Stone",
+    "duration": "5d",
+    "startDate": "11-06-26",
+    "endDate": "17-06-26"
+  },
+  {
+    "taskName": "Rough Ins",
+    "duration": "123d",
+    "startDate": "12-08-25",
+    "endDate": "12-02-26"
+  },
+  {
+    "taskName": "Basement",
+    "duration": "32d",
+    "startDate": "12-08-25",
+    "endDate": "24-09-25"
+  },
+  {
+    "taskName": "Insulation under slab",
+    "duration": "3d",
+    "startDate": "12-08-25",
+    "endDate": "14-08-25"
+  },
+  {
+    "taskName": "Hydraulic RI",
+    "duration": "10d",
+    "startDate": "15-08-25",
+    "endDate": "28-08-25"
+  },
+  {
+    "taskName": "Mechanical RI",
+    "duration": "10d",
+    "startDate": "22-08-25",
+    "endDate": "04-09-25"
+  },
+  {
+    "taskName": "Electrical RI",
+    "duration": "10d",
+    "startDate": "15-08-25",
+    "endDate": "28-08-25"
+  },
+  {
+    "taskName": "Elect Underfloor Heating RI",
+    "duration": "5d",
+    "startDate": "18-09-25",
+    "endDate": "24-09-25"
+  },
+  {
+    "taskName": "Lower Ground Floor",
+    "duration": "32d",
+    "startDate": "21-10-25",
+    "endDate": "03-12-25"
+  },
+  {
+    "taskName": "Insulation under slab",
+    "duration": "3d",
+    "startDate": "21-10-25",
+    "endDate": "23-10-25"
+  },
+  {
+    "taskName": "Hydraulic RI",
+    "duration": "10d",
+    "startDate": "24-10-25",
+    "endDate": "06-11-25"
+  },
+  {
+    "taskName": "Mechanical RI",
+    "duration": "10d",
+    "startDate": "31-10-25",
+    "endDate": "13-11-25"
+  },
+  {
+    "taskName": "Electrical RI",
+    "duration": "10d",
+    "startDate": "24-10-25",
+    "endDate": "06-11-25"
+  },
+  {
+    "taskName": "Elect Underfloor Heating RI",
+    "duration": "5d",
+    "startDate": "27-11-25",
+    "endDate": "03-12-25"
+  },
+  {
+    "taskName": "Mezzanine",
+    "duration": "45d",
+    "startDate": "10-11-25",
+    "endDate": "21-01-26"
+  },
+  {
+    "taskName": "Insulation under slab",
+    "duration": "2d",
+    "startDate": "10-11-25",
+    "endDate": "11-11-25"
+  },
+  {
+    "taskName": "Hydraulic RI",
+    "duration": "7d",
+    "startDate": "12-11-25",
+    "endDate": "20-11-25"
+  },
+  {
+    "taskName": "Mechanical RI",
+    "duration": "15d",
+    "startDate": "17-11-25",
+    "endDate": "05-12-25"
+  },
+  {
+    "taskName": "Electrical RI",
+    "duration": "15d",
+    "startDate": "12-11-25",
+    "endDate": "02-12-25"
+  },
+  {
+    "taskName": "Plant Room Finishes",
+    "duration": "15d",
+    "startDate": "22-12-25",
+    "endDate": "21-01-26"
+  },
+  {
+    "taskName": "Ground Floor & Entry Level",
+    "duration": "34d",
+    "startDate": "16-12-25",
+    "endDate": "12-02-26"
+  },
+  {
+    "taskName": "Insulation under slab",
+    "duration": "3d",
+    "startDate": "16-12-25",
+    "endDate": "18-12-25"
+  },
+  {
+    "taskName": "Hydraulic RI",
+    "duration": "10d",
+    "startDate": "19-12-25",
+    "endDate": "13-01-26"
+  },
+  {
+    "taskName": "Mechanical RI",
+    "duration": "10d",
+    "startDate": "07-01-26",
+    "endDate": "20-01-26"
+  },
+  {
+    "taskName": "Electrical RI",
+    "duration": "10d",
+    "startDate": "19-12-25",
+    "endDate": "13-01-26"
+  },
+  {
+    "taskName": "Elect Underfloor Heating RI",
+    "duration": "7d",
+    "startDate": "04-02-26",
+    "endDate": "12-02-26"
+  },
+  {
+    "taskName": "Level 1",
+    "duration": "29d",
+    "startDate": "11-12-25",
+    "endDate": "02-02-26"
+  },
+  {
+    "taskName": "Insulation under slab",
+    "duration": "3d",
+    "startDate": "11-12-25",
+    "endDate": "15-12-25"
+  },
+  {
+    "taskName": "Hydraulic RI",
+    "duration": "10d",
+    "startDate": "16-12-25",
+    "endDate": "08-01-26"
+  },
+  {
+    "taskName": "Mechanical RI",
+    "duration": "10d",
+    "startDate": "18-12-25",
+    "endDate": "12-01-26"
+  },
+  {
+    "taskName": "Electrical RI",
+    "duration": "10d",
+    "startDate": "16-12-25",
+    "endDate": "08-01-26"
+  },
+  {
+    "taskName": "Elect Underfloor Heating RI",
+    "duration": "5d",
+    "startDate": "26-01-26",
+    "endDate": "02-02-26"
+  },
+  {
+    "taskName": "Install Lift",
+    "duration": "30d",
+    "startDate": "11-12-25",
+    "endDate": "03-02-26"
+  },
+  {
+    "taskName": "Finishes",
+    "duration": "185d",
+    "startDate": "05-09-25",
+    "endDate": "10-06-26"
+  },
+  {
+    "taskName": "Basement",
+    "duration": "185d",
+    "startDate": "05-09-25",
+    "endDate": "10-06-26"
+  },
+  {
+    "taskName": "BMT Wet Areas",
+    "duration": "33d",
+    "startDate": "05-09-25",
+    "endDate": "22-10-25"
+  },
+  {
+    "taskName": "Render / Plasterboard",
+    "duration": "6d",
+    "startDate": "05-09-25",
+    "endDate": "12-09-25"
+  },
+  {
+    "taskName": "Plasterboard Ceiling",
+    "duration": "3d",
+    "startDate": "15-09-25",
+    "endDate": "17-09-25"
+  },
+  {
+    "taskName": "Waterproof nmembrane",
+    "duration": "3d",
+    "startDate": "18-09-25",
+    "endDate": "22-09-25"
+  },
+  {
+    "taskName": "Floor stone",
+    "duration": "3d",
+    "startDate": "25-09-25",
+    "endDate": "29-09-25"
+  },
+  {
+    "taskName": "Wall Stone",
+    "duration": "3d",
+    "startDate": "30-09-25",
+    "endDate": "02-10-25"
+  },
+  {
+    "taskName": "Vanities",
+    "duration": "3d",
+    "startDate": "03-10-25",
+    "endDate": "08-10-25"
+  },
+  {
+    "taskName": "Sanitary Ware & Fixtures",
+    "duration": "3d",
+    "startDate": "20-10-25",
+    "endDate": "22-10-25"
+  },
+  {
+    "taskName": "BMT General areas",
+    "duration": "176d",
+    "startDate": "18-09-25",
+    "endDate": "10-06-26"
+  },
+  {
+    "taskName": "Plasterboard Wall Linings",
+    "duration": "7d",
+    "startDate": "18-09-25",
+    "endDate": "26-09-25"
+  },
+  {
+    "taskName": "Plasterboard Ceiling Linings",
+    "duration": "7d",
+    "startDate": "29-09-25",
+    "endDate": "08-10-25"
+  },
+  {
+    "taskName": "Stone Floor",
+    "duration": "10d",
+    "startDate": "07-10-25",
+    "endDate": "20-10-25"
+  },
+  {
+    "taskName": "Joinery",
+    "duration": "20d",
+    "startDate": "14-10-25",
+    "endDate": "10-11-25"
+  },
+  {
+    "taskName": "Doors & hardware",
+    "duration": "5d",
+    "startDate": "21-10-25",
+    "endDate": "27-10-25"
+  },
+  {
+    "taskName": "Paint",
+    "duration": "5d",
+    "startDate": "28-10-25",
+    "endDate": "03-11-25"
+  },
+  {
+    "taskName": "Carpet",
+    "duration": "2d",
+    "startDate": "11-11-25",
+    "endDate": "12-11-25"
+  },
+  {
+    "taskName": "Fitoffs incl Cellar security grille",
+    "duration": "10d",
+    "startDate": "04-11-25",
+    "endDate": "17-11-25"
+  },
+  {
+    "taskName": "Complete Ceiling around stair",
+    "duration": "5d",
+    "startDate": "25-05-26",
+    "endDate": "29-05-26"
+  },
+  {
+    "taskName": "Paint ceiling around stair",
+    "duration": "2d",
+    "startDate": "01-06-26",
+    "endDate": "02-06-26"
+  },
+  {
+    "taskName": "Complete stone floor around stair",
+    "duration": "5d",
+    "startDate": "03-06-26",
+    "endDate": "10-06-26"
+  },
+  {
+    "taskName": "Lower Ground Floor",
+    "duration": "129d",
+    "startDate": "14-11-25",
+    "endDate": "29-05-26"
+  },
+  {
+    "taskName": "LGF Wet Areas",
+    "duration": "34d",
+    "startDate": "14-11-25",
+    "endDate": "12-01-26"
+  },
+  {
+    "taskName": "Render",
+    "duration": "6d",
+    "startDate": "14-11-25",
+    "endDate": "21-11-25"
+  },
+  {
+    "taskName": "Plasterboard Ceiling",
+    "duration": "3d",
+    "startDate": "24-11-25",
+    "endDate": "26-11-25"
+  },
+  {
+    "taskName": "Waterproof nmembrane",
+    "duration": "3d",
+    "startDate": "27-11-25",
+    "endDate": "01-12-25"
+  },
+  {
+    "taskName": "Floor stone",
+    "duration": "3d",
+    "startDate": "04-12-25",
+    "endDate": "08-12-25"
+  },
+  {
+    "taskName": "Wall Stone",
+    "duration": "3d",
+    "startDate": "09-12-25",
+    "endDate": "11-12-25"
+  },
+  {
+    "taskName": "Vanities",
+    "duration": "3d",
+    "startDate": "12-12-25",
+    "endDate": "16-12-25"
+  },
+  {
+    "taskName": "Sanitary Ware & Fixtures",
+    "duration": "3d",
+    "startDate": "08-01-26",
+    "endDate": "12-01-26"
+  },
+  {
+    "taskName": "LGF General areas",
+    "duration": "120d",
+    "startDate": "27-11-25",
+    "endDate": "29-05-26"
+  },
+  {
+    "taskName": "Plasterboard Wall Linings",
+    "duration": "7d",
+    "startDate": "27-11-25",
+    "endDate": "05-12-25"
+  },
+  {
+    "taskName": "Plasterboard Ceiling Linings",
+    "duration": "7d",
+    "startDate": "08-12-25",
+    "endDate": "16-12-25"
+  },
+  {
+    "taskName": "Stone Floor",
+    "duration": "6d",
+    "startDate": "15-12-25",
+    "endDate": "22-12-25"
+  },
+  {
+    "taskName": "Joinery",
+    "duration": "20d",
+    "startDate": "22-12-25",
+    "endDate": "29-01-26"
+  },
+  {
+    "taskName": "Doors & hardware",
+    "duration": "5d",
+    "startDate": "23-12-25",
+    "endDate": "08-01-26"
+  },
+  {
+    "taskName": "Paint",
+    "duration": "5d",
+    "startDate": "09-01-26",
+    "endDate": "15-01-26"
+  },
+  {
+    "taskName": "Carpet",
+    "duration": "5d",
+    "startDate": "30-01-26",
+    "endDate": "05-02-26"
+  },
+  {
+    "taskName": "Fitoffs incl Cellar security grille",
+    "duration": "10d",
+    "startDate": "05-02-26",
+    "endDate": "18-02-26"
+  },
+  {
+    "taskName": "Home Theatre Fitout",
+    "duration": "40d",
+    "startDate": "27-11-25",
+    "endDate": "03-02-26"
+  },
+  {
+    "taskName": "Complete Ceiling around stair",
+    "duration": "5d",
+    "startDate": "18-05-26",
+    "endDate": "22-05-26"
+  },
+  {
+    "taskName": "Paint ceiling around stair",
+    "duration": "2d",
+    "startDate": "25-05-26",
+    "endDate": "26-05-26"
+  },
+  {
+    "taskName": "Complete stone floor around stair",
+    "duration": "3d",
+    "startDate": "27-05-26",
+    "endDate": "29-05-26"
+  },
+  {
+    "taskName": "Ground Floor & Entry",
+    "duration": "84d",
+    "startDate": "21-01-26",
+    "endDate": "22-05-26"
+  },
+  {
+    "taskName": "GF Wet Areas",
+    "duration": "35d",
+    "startDate": "21-01-26",
+    "endDate": "11-03-26"
+  },
+  {
+    "taskName": "Render",
+    "duration": "6d",
+    "startDate": "21-01-26",
+    "endDate": "29-01-26"
+  },
+  {
+    "taskName": "Plasterboard Ceiling",
+    "duration": "3d",
+    "startDate": "30-01-26",
+    "endDate": "03-02-26"
+  },
+  {
+    "taskName": "Waterproof nmembrane",
+    "duration": "3d",
+    "startDate": "04-02-26",
+    "endDate": "06-02-26"
+  },
+  {
+    "taskName": "Floor stone",
+    "duration": "3d",
+    "startDate": "13-02-26",
+    "endDate": "17-02-26"
+  },
+  {
+    "taskName": "Wall Stone",
+    "duration": "3d",
+    "startDate": "18-02-26",
+    "endDate": "20-02-26"
+  },
+  {
+    "taskName": "Vanities",
+    "duration": "3d",
+    "startDate": "23-02-26",
+    "endDate": "25-02-26"
+  },
+  {
+    "taskName": "Sanitary Ware & Fixtures",
+    "duration": "3d",
+    "startDate": "09-03-26",
+    "endDate": "11-03-26"
+  },
+  {
+    "taskName": "GF General areas",
+    "duration": "75d",
+    "startDate": "04-02-26",
+    "endDate": "22-05-26"
+  },
+  {
+    "taskName": "Plasterboard Wall Linings",
+    "duration": "7d",
+    "startDate": "04-02-26",
+    "endDate": "12-02-26"
+  },
+  {
+    "taskName": "Plasterboard Ceiling Linings",
+    "duration": "7d",
+    "startDate": "13-02-26",
+    "endDate": "23-02-26"
+  },
+  {
+    "taskName": "Stone Floor",
+    "duration": "6d",
+    "startDate": "23-02-26",
+    "endDate": "02-03-26"
+  },
+  {
+    "taskName": "Joinery",
+    "duration": "20d",
+    "startDate": "02-03-26",
+    "endDate": "27-03-26"
+  },
+  {
+    "taskName": "Doors & hardware",
+    "duration": "5d",
+    "startDate": "03-03-26",
+    "endDate": "09-03-26"
+  },
+  {
+    "taskName": "Paint",
+    "duration": "5d",
+    "startDate": "10-03-26",
+    "endDate": "16-03-26"
+  },
+  {
+    "taskName": "Carpet",
+    "duration": "5d",
+    "startDate": "30-03-26",
+    "endDate": "07-04-26"
+  },
+  {
+    "taskName": "Fitoffs",
+    "duration": "10d",
+    "startDate": "26-03-26",
+    "endDate": "10-04-26"
+  },
+  {
+    "taskName": "Complete Ceiling around stair",
+    "duration": "5d",
+    "startDate": "11-05-26",
+    "endDate": "15-05-26"
+  },
+  {
+    "taskName": "Paint ceiling around stair",
+    "duration": "2d",
+    "startDate": "18-05-26",
+    "endDate": "19-05-26"
+  },
+  {
+    "taskName": "Complete stone floor around stair",
+    "duration": "3d",
+    "startDate": "20-05-26",
+    "endDate": "22-05-26"
+  },
+  {
+    "taskName": "First Floor",
+    "duration": "49d",
+    "startDate": "13-01-26",
+    "endDate": "23-03-26"
+  },
+  {
+    "taskName": "1F Wet Areas",
+    "duration": "36d",
+    "startDate": "13-01-26",
+    "endDate": "04-03-26"
+  },
+  {
+    "taskName": "Plasterboard Wall Linings",
+    "duration": "6d",
+    "startDate": "13-01-26",
+    "endDate": "20-01-26"
+  },
+  {
+    "taskName": "Plasterboard Ceiling",
+    "duration": "3d",
+    "startDate": "21-01-26",
+    "endDate": "23-01-26"
+  },
+  {
+    "taskName": "Waterproof nmembrane",
+    "duration": "3d",
+    "startDate": "26-01-26",
+    "endDate": "29-01-26"
+  },
+  {
+    "taskName": "Floor stone",
+    "duration": "3d",
+    "startDate": "03-02-26",
+    "endDate": "05-02-26"
+  },
+  {
+    "taskName": "Wall Stone",
+    "duration": "3d",
+    "startDate": "06-02-26",
+    "endDate": "10-02-26"
+  },
+  {
+    "taskName": "Vanities",
+    "duration": "3d",
+    "startDate": "11-02-26",
+    "endDate": "13-02-26"
+  },
+  {
+    "taskName": "Sanitary Ware & Fixtures",
+    "duration": "5d",
+    "startDate": "26-02-26",
+    "endDate": "04-03-26"
+  },
+  {
+    "taskName": "1F General areas",
+    "duration": "40d",
+    "startDate": "26-01-26",
+    "endDate": "23-03-26"
+  },
+  {
+    "taskName": "Plasterboard Wall Linings",
+    "duration": "7d",
+    "startDate": "26-01-26",
+    "endDate": "04-02-26"
+  },
+  {
+    "taskName": "Plasterboard Ceiling Linings",
+    "duration": "5d",
+    "startDate": "05-02-26",
+    "endDate": "11-02-26"
+  },
+  {
+    "taskName": "Stone Floor",
+    "duration": "2d",
+    "startDate": "12-02-26",
+    "endDate": "13-02-26"
+  },
+  {
+    "taskName": "Joinery",
+    "duration": "15d",
+    "startDate": "19-02-26",
+    "endDate": "11-03-26"
+  },
+  {
+    "taskName": "Doors & hardware",
+    "duration": "3d",
+    "startDate": "16-02-26",
+    "endDate": "18-02-26"
+  },
+  {
+    "taskName": "Paint",
+    "duration": "5d",
+    "startDate": "19-02-26",
+    "endDate": "25-02-26"
+  },
+  {
+    "taskName": "Carpet",
+    "duration": "5d",
+    "startDate": "12-03-26",
+    "endDate": "18-03-26"
+  },
+  {
+    "taskName": "Fitoffs",
+    "duration": "5d",
+    "startDate": "17-03-26",
+    "endDate": "23-03-26"
+  },
+  {
+    "taskName": "Project Completion",
+    "duration": "91d",
+    "startDate": "13-04-26",
+    "endDate": "19-08-26"
+  },
+  {
+    "taskName": "Commissioning",
+    "duration": "20d",
+    "startDate": "13-04-26",
+    "endDate": "11-05-26"
+  },
+  {
+    "taskName": "WAE & Certificates",
+    "duration": "20d",
+    "startDate": "13-04-26",
+    "endDate": "11-05-26"
+  },
+  {
+    "taskName": "Project Cleaning - Internal",
+    "duration": "20d",
+    "startDate": "11-06-26",
+    "endDate": "08-07-26"
+  },
+  {
+    "taskName": "Project Cleaning - External",
+    "duration": "5d",
+    "startDate": "17-07-26",
+    "endDate": "23-07-26"
+  },
+  {
+    "taskName": "Demobilise",
+    "duration": "5d",
+    "startDate": "09-07-26",
+    "endDate": "15-07-26"
+  },
+  {
+    "taskName": "OC Documentation",
+    "duration": "15d",
+    "startDate": "12-05-26",
+    "endDate": "01-06-26"
+  },
+  {
+    "taskName": "PCA OC Approval",
+    "duration": "5d",
+    "startDate": "02-06-26",
+    "endDate": "09-06-26"
+  },
+  {
+    "taskName": "Inclement Weather Allowance",
+    "duration": "24d",
+    "startDate": "17-07-26",
+    "endDate": "19-08-26"
+  },
+  {
+    "taskName": "Practical Completion",
+    "duration": "0d",
+    "startDate": "23-07-26",
+    "endDate": "23-07-26"
+  },
+  {
+    "taskName": "Gross Project Completion",
+    "duration": "0d",
+    "startDate": "19-08-26",
+    "endDate": "19-08-26"
+  }
+]

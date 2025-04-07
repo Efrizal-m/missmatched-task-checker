@@ -1,0 +1,92 @@
+[
+  {
+    "taskName": "Inspections",
+    "duration": "509d",
+    "startDate": "24-04-24",
+    "endDate": "25-05-26"
+  },
+  {
+    "taskName": "Arborist",
+    "duration": "188d",
+    "startDate": "25-04-24",
+    "endDate": "03-02-25"
+  },
+  {
+    "taskName": "Pre Demolition",
+    "duration": "0d",
+    "startDate": "25-04-24",
+    "endDate": "25-04-24"
+  },
+  {
+    "taskName": "Excavation Commencement",
+    "duration": "0d",
+    "startDate": "30-05-24",
+    "endDate": "30-05-24"
+  },
+  {
+    "taskName": "Tree Crown or Root pruning",
+    "duration": "0d",
+    "startDate": "30-05-24",
+    "endDate": "30-05-24"
+  },
+  {
+    "taskName": "Construction Commencment",
+    "duration": "0d",
+    "startDate": "03-02-25",
+    "endDate": "03-02-25"
+  },
+  {
+    "taskName": "PCA",
+    "duration": "509d",
+    "startDate": "24-04-24",
+    "endDate": "25-05-26"
+  },
+  {
+    "taskName": "Site Inpsection",
+    "duration": "0d",
+    "startDate": "24-04-24",
+    "endDate": "24-04-24"
+  },
+  {
+    "taskName": "Commencment",
+    "duration": "0d",
+    "startDate": "02-05-24",
+    "endDate": "02-05-24"
+  },
+  {
+    "taskName": "Pier Inspection",
+    "duration": "0d",
+    "startDate": "17-06-24",
+    "endDate": "17-06-24"
+  },
+  {
+    "taskName": "Slab Inspection",
+    "duration": "0d",
+    "startDate": "03-02-25",
+    "endDate": "03-02-25"
+  },
+  {
+    "taskName": "Stormwater Inspection",
+    "duration": "0d",
+    "startDate": "20-01-25",
+    "endDate": "20-01-25"
+  },
+  {
+    "taskName": "Framework Inspection",
+    "duration": "0d",
+    "startDate": "10-02-25",
+    "endDate": "10-02-25"
+  },
+  {
+    "taskName": "Wet Area Inspection",
+    "duration": "0d",
+    "startDate": "17-09-25",
+    "endDate": "17-09-25"
+  },
+  {
+    "taskName": "Final Inspection",
+    "duration": "0d",
+    "startDate": "25-05-26",
+    "endDate": "25-05-26"
+  }
+]

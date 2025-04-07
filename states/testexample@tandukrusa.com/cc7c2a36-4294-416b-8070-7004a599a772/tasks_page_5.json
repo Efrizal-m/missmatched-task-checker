@@ -1,0 +1,92 @@
+[
+  {
+    "taskName": "Piling Platform 2",
+    "duration": "2d",
+    "startDate": "08-07-24",
+    "endDate": "09-07-24"
+  },
+  {
+    "taskName": "Piling Stage 2 & Exc Mat'l removal",
+    "duration": "10d",
+    "startDate": "10-07-24",
+    "endDate": "23-07-24"
+  },
+  {
+    "taskName": "Piling Platform 3",
+    "duration": "2d",
+    "startDate": "24-07-24",
+    "endDate": "25-07-24"
+  },
+  {
+    "taskName": "Piling Stage 3 & Exc Mat'l removal",
+    "duration": "15d",
+    "startDate": "26-07-24",
+    "endDate": "15-08-24"
+  },
+  {
+    "taskName": "Exc & FRP Pile caps - Stage 1",
+    "duration": "20d",
+    "startDate": "16-08-24",
+    "endDate": "12-09-24"
+  },
+  {
+    "taskName": "Exc & FRP Pile caps - Stage 2",
+    "duration": "10d",
+    "startDate": "13-09-24",
+    "endDate": "26-09-24"
+  },
+  {
+    "taskName": "Exc & FRP Pile caps - Stage 3",
+    "duration": "10d",
+    "startDate": "27-09-24",
+    "endDate": "11-10-24"
+  },
+  {
+    "taskName": "Install Loading platform, Steel, Bondeck, FRP",
+    "duration": "15d",
+    "startDate": "13-09-24",
+    "endDate": "03-10-24"
+  },
+  {
+    "taskName": "Cure Loading Platform",
+    "duration": "7d",
+    "startDate": "04-10-24",
+    "endDate": "15-10-24"
+  },
+  {
+    "taskName": "Excavation  to H1",
+    "duration": "15d",
+    "startDate": "16-10-24",
+    "endDate": "05-11-24"
+  },
+  {
+    "taskName": "Progressive shotcrete & strip drains - H1",
+    "duration": "25d",
+    "startDate": "04-10-24",
+    "endDate": "08-11-24"
+  },
+  {
+    "taskName": "Install steel whalers & bracing",
+    "duration": "10d",
+    "startDate": "11-11-24",
+    "endDate": "22-11-24"
+  },
+  {
+    "taskName": "Excavation to H2",
+    "duration": "10d",
+    "startDate": "25-11-24",
+    "endDate": "06-12-24"
+  },
+  {
+    "taskName": "Progressive Chop down Basement piles to height",
+    "duration": "15d",
+    "startDate": "25-11-24",
+    "endDate": "13-12-24"
+  },
+  {
+    "taskName": "Progressive shotcrete & strip drains - H2",
+    "duration": "8d",
+    "startDate": "09-12-24",
+    "endDate": "18-12-24"
+  }
+]

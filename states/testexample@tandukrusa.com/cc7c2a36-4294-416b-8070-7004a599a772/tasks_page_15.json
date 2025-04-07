@@ -1,0 +1,92 @@
+[
+  {
+    "taskName": "Insulation under slab",
+    "duration": "3d",
+    "startDate": "16-12-25",
+    "endDate": "18-12-25"
+  },
+  {
+    "taskName": "Hydraulic RI",
+    "duration": "10d",
+    "startDate": "19-12-25",
+    "endDate": "13-01-26"
+  },
+  {
+    "taskName": "Mechanical RI",
+    "duration": "10d",
+    "startDate": "07-01-26",
+    "endDate": "20-01-26"
+  },
+  {
+    "taskName": "Electrical RI",
+    "duration": "10d",
+    "startDate": "19-12-25",
+    "endDate": "13-01-26"
+  },
+  {
+    "taskName": "Elect Underfloor Heating RI",
+    "duration": "7d",
+    "startDate": "04-02-26",
+    "endDate": "12-02-26"
+  },
+  {
+    "taskName": "Level 1",
+    "duration": "29d",
+    "startDate": "11-12-25",
+    "endDate": "02-02-26"
+  },
+  {
+    "taskName": "Insulation under slab",
+    "duration": "3d",
+    "startDate": "11-12-25",
+    "endDate": "15-12-25"
+  },
+  {
+    "taskName": "Hydraulic RI",
+    "duration": "10d",
+    "startDate": "16-12-25",
+    "endDate": "08-01-26"
+  },
+  {
+    "taskName": "Mechanical RI",
+    "duration": "10d",
+    "startDate": "18-12-25",
+    "endDate": "12-01-26"
+  },
+  {
+    "taskName": "Electrical RI",
+    "duration": "10d",
+    "startDate": "16-12-25",
+    "endDate": "08-01-26"
+  },
+  {
+    "taskName": "Elect Underfloor Heating RI",
+    "duration": "5d",
+    "startDate": "26-01-26",
+    "endDate": "02-02-26"
+  },
+  {
+    "taskName": "Install Lift",
+    "duration": "30d",
+    "startDate": "11-12-25",
+    "endDate": "03-02-26"
+  },
+  {
+    "taskName": "Finishes",
+    "duration": "185d",
+    "startDate": "05-09-25",
+    "endDate": "10-06-26"
+  },
+  {
+    "taskName": "Basement",
+    "duration": "185d",
+    "startDate": "05-09-25",
+    "endDate": "10-06-26"
+  },
+  {
+    "taskName": "BMT Wet Areas",
+    "duration": "33d",
+    "startDate": "05-09-25",
+    "endDate": "22-10-25"
+  }
+]

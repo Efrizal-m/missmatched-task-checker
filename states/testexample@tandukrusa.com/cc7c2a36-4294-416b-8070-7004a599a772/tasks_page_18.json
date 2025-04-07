@@ -1,0 +1,92 @@
+[
+  {
+    "taskName": "LGF General areas",
+    "duration": "120d",
+    "startDate": "27-11-25",
+    "endDate": "29-05-26"
+  },
+  {
+    "taskName": "Plasterboard Wall Linings",
+    "duration": "7d",
+    "startDate": "27-11-25",
+    "endDate": "05-12-25"
+  },
+  {
+    "taskName": "Plasterboard Ceiling Linings",
+    "duration": "7d",
+    "startDate": "08-12-25",
+    "endDate": "16-12-25"
+  },
+  {
+    "taskName": "Stone Floor",
+    "duration": "6d",
+    "startDate": "15-12-25",
+    "endDate": "22-12-25"
+  },
+  {
+    "taskName": "Joinery",
+    "duration": "20d",
+    "startDate": "22-12-25",
+    "endDate": "29-01-26"
+  },
+  {
+    "taskName": "Doors & hardware",
+    "duration": "5d",
+    "startDate": "23-12-25",
+    "endDate": "08-01-26"
+  },
+  {
+    "taskName": "Paint",
+    "duration": "5d",
+    "startDate": "09-01-26",
+    "endDate": "15-01-26"
+  },
+  {
+    "taskName": "Carpet",
+    "duration": "5d",
+    "startDate": "30-01-26",
+    "endDate": "05-02-26"
+  },
+  {
+    "taskName": "Fitoffs incl Cellar security grille",
+    "duration": "10d",
+    "startDate": "05-02-26",
+    "endDate": "18-02-26"
+  },
+  {
+    "taskName": "Home Theatre Fitout",
+    "duration": "40d",
+    "startDate": "27-11-25",
+    "endDate": "03-02-26"
+  },
+  {
+    "taskName": "Complete Ceiling around stair",
+    "duration": "5d",
+    "startDate": "18-05-26",
+    "endDate": "22-05-26"
+  },
+  {
+    "taskName": "Paint ceiling around stair",
+    "duration": "2d",
+    "startDate": "25-05-26",
+    "endDate": "26-05-26"
+  },
+  {
+    "taskName": "Complete stone floor around stair",
+    "duration": "3d",
+    "startDate": "27-05-26",
+    "endDate": "29-05-26"
+  },
+  {
+    "taskName": "Ground Floor & Entry",
+    "duration": "84d",
+    "startDate": "21-01-26",
+    "endDate": "22-05-26"
+  },
+  {
+    "taskName": "GF Wet Areas",
+    "duration": "35d",
+    "startDate": "21-01-26",
+    "endDate": "11-03-26"
+  }
+]
