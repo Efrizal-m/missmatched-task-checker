@@ -76,13 +76,6 @@ const compareData = async (): Promise<void> => {
             };
 
             jsonData.forEach((jsonTask, index) => {
-                // if (jsonTask.taskName === "Building Demolition") {
-                //     // console.log(jsonTask) 
-                //     console.log(moment(new Date(jsonTask.startDate)).format("DD/MM/YYYY"))                                        
-                //     console.log(moment(jsonTask.endDate, 'DD-MM-YY'))
-                // }
-
-
                 if (index + 1 === csvTask.id && csvTask.text === jsonTask.taskName) {  
                     if (csvTask.id <= 47) {
                         const jsonValues = {
