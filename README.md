@@ -3,12 +3,13 @@
 ## Setup
 
 run
-```npx playwright install-deps
-npx plawright install
+```
+npx playwright install-deps
+npx playwright install
 
 npm install
 ```
-## Scraping data from sitesched appu
+## Scraping data from sitesched app
 
 update .env file then run
 ```
